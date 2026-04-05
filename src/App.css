@@ -292,7 +292,7 @@
   left: 0;
   right: 0;
   z-index: 100;
-  background: rgb(61, 48, 16);
+  background: rgb(26, 32, 44);
   border-bottom: none;
   height: 136px;
   display: flex;
@@ -431,7 +431,7 @@
   right: 0;
   bottom: 0;
   width: 280px;
-  background: rgb(61, 48, 16);
+  background: rgb(26, 32, 44);
   z-index: 201;
   display: flex;
   flex-direction: column;
@@ -526,7 +526,7 @@
   position: absolute;
   top: calc(100% + 8px);
   right: 0;
-  background: rgb(61, 48, 16);
+  background: rgb(26, 32, 44);
   border: 1px solid rgba(255,255,255,0.2);
   border-radius: var(--radius-sm);
   overflow: hidden;
@@ -710,7 +710,7 @@
 
 /* ─── LOCALRENT WIDGET COLOUR OVERRIDES ─────────────── */
 .search-cigarette__wrap {
-  background-color: #3D3010 !important;
+  background-color: #1a202c !important;
 }
 .search-placeholder,
 .search-cigarette__placeholder {
@@ -718,13 +718,13 @@
 }
 .winter-package-banner--more,
 .link-dashed-M {
-  color: #C49B2A !important;
-  border-color: #C49B2A !important;
-  border-bottom-color: #C49B2A !important;
+  color: #4a5568 !important;
+  border-color: #4a5568 !important;
+  border-bottom-color: #4a5568 !important;
 }
 .featuring-cool-cars__badge {
   background-color: rgba(196, 155, 42, 0.15) !important;
-  color: #C49B2A !important;
+  color: #4a5568 !important;
 }
 /* Buttons / CTAs */
 .btn-primary,
@@ -732,15 +732,15 @@
 .search-cigarette__submit,
 [class*="button--primary"],
 [class*="btn--primary"] {
-  background-color: #C49B2A !important;
-  border-color: #C49B2A !important;
+  background-color: #4a5568 !important;
+  border-color: #4a5568 !important;
 }
 [class*="button--primary"]:hover,
 [class*="btn--primary"]:hover,
 .search-form__submit:hover,
 .search-cigarette__submit:hover {
-  background-color: #A68324 !important;
-  border-color: #A68324 !important;
+  background-color: #2d3748 !important;
+  border-color: #2d3748 !important;
 }
 
 /* ─── HERO FORM WRAPPER ────────────────────────────────── */
