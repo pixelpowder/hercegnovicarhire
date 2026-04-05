@@ -9,7 +9,7 @@ const siteConfig = {
   hero: {
     headline: "Explore Herceg Novi at Your Own Pace",
     subheadline: "Pick up your rental car in Herceg Novi — just 35km from Tivat Airport and the gateway from Dubrovnik into Montenegro.",
-    image: "/img/pexels-3802510.jpg",
+    image: "/img/hero-herceg-novi.webp",
   },
 
   cars: [
@@ -153,9 +153,9 @@ const siteConfig = {
   ],
 
   testimonials: [
-    { name: "James Wilson", location: "London, UK", text: "Picked up our car in Herceg Novi and drove the Dubrovnik corridor the same afternoon. Paperwork for Croatia was ready. Brilliant service.", rating: 5, avatar: "/img/pexels-220453.jpg" },
-    { name: "Katrin Meier", location: "Munich, Germany", text: "We stayed in Igalo for the spa and used the rental to explore Kotor, Perast, and Budva. The golden coastline is stunning from a car.", rating: 5, avatar: "/img/pexels-774909.jpg" },
-    { name: "Tom & Sarah", location: "Melbourne, Australia", text: "Herceg Novi was our base for two weeks. The Jeep handled the bay road to Tivat perfectly and we crossed into Croatia three times.", rating: 5, avatar: "/img/pexels-1222271.jpg" },
+    { name: "James Wilson", location: "London, UK", text: "Picked up our car in Herceg Novi and drove the Dubrovnik corridor the same afternoon. Paperwork for Croatia was ready. Brilliant service.", rating: 5, avatar: "/img/avatar-1.webp" },
+    { name: "Katrin Meier", location: "Munich, Germany", text: "We stayed in Igalo for the spa and used the rental to explore Kotor, Perast, and Budva. The golden coastline is stunning from a car.", rating: 5, avatar: "/img/avatar-2.webp" },
+    { name: "Tom & Sarah", location: "Melbourne, Australia", text: "Herceg Novi was our base for two weeks. The Jeep handled the bay road to Tivat perfectly and we crossed into Croatia three times.", rating: 5, avatar: "/img/avatar-3.webp" },
   ],
 
   faq: [
@@ -188,56 +188,56 @@ const siteConfig = {
       slug: "kotor",
       tag: "Spa & Health",
       desc: "Famous health resort, 5 minutes from Herceg Novi.",
-      image: "/img/pexels-5668157.jpg",
+      image: "/img/igalo-spa.webp",
     },
     {
       name: "Kotor",
       slug: "kotor",
       tag: "UNESCO Site",
       desc: "Medieval walled city, 45 minutes along the bay.",
-      image: "/img/pexels-5668157.jpg",
+      image: "/img/kotor-from-herceg.webp",
     },
     {
       name: "Tivat Airport",
       slug: "tivat-airport",
       tag: "35 min Drive",
       desc: "Closest airport to Herceg Novi via the bay road.",
-      image: "/img/pexels-16099591.jpg",
+      image: "/img/coastal-drive.webp",
     },
     {
       name: "Dubrovnik Airport",
       slug: "dubrovnik-airport",
       tag: "Cross-Border",
       desc: "Just 30km away across the Croatian border.",
-      image: "/img/pexels-30006498.jpg",
+      image: "/img/dubrovnik-nearby.webp",
     },
     {
       name: "Budva",
       slug: "budva",
       tag: "Beach Town",
       desc: "Riviera beaches and nightlife, 1 hour south.",
-      image: "/img/pexels-26753897.jpg",
+      image: "/img/herceg-novi-riviera.webp",
     },
     {
       name: "Perast",
       slug: "perast",
       tag: "Hidden Gem",
       desc: "Baroque village on the bay, 30 minutes away.",
-      image: "/img/pexels-29904099.jpg",
+      image: "/img/perast-nearby.webp",
     },
     {
       name: "Risan",
       slug: "kotor",
       tag: "Roman Mosaics",
       desc: "Ancient town with Roman mosaics, 20 min drive.",
-      image: "/img/pexels-9526645.jpg",
+      image: "/img/savina-monastery.webp",
     },
     {
       name: "Lustica Peninsula",
       slug: "tivat",
       tag: "Beaches",
       desc: "Secluded beaches and olive groves across the bay.",
-      image: "/img/pexels-6216512.jpg",
+      image: "/img/forte-mare.webp",
     },
   ],
 };
