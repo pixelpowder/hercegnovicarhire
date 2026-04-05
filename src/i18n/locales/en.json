@@ -30,11 +30,11 @@
   },
   "trust": {
     "noHiddenFees": "No Hidden Fees",
-    "noHiddenFeesDesc": "Price shown is all-inclusive",
+    "noHiddenFeesDesc": "Final price locked at booking — no border crossing or one-way surcharges",
     "fullInsurance": "Full Insurance",
-    "fullInsuranceDesc": "Zero excess option available",
-    "fastPickup": "10-Min Pickup",
-    "fastPickupDesc": "Meet you at arrivals"
+    "fullInsuranceDesc": "CDW as standard, with a zero-excess upgrade for Dubrovnik corridor driving",
+    "fastPickup": "Bay Entrance Pickup",
+    "fastPickupDesc": "Collect at Tivat Airport or meet at your Herceg Novi or Igalo accommodation"
   },
   "stats": {
     "years": "Years Experience",
