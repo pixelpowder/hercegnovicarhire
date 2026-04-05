@@ -197,88 +197,88 @@
   "featureCards": {
     "airportPickup": {
       "title": "Prise en charge à l'aéroport",
-      "desc": "Récupérez votre voiture aux arrivées de l'aéroport de Tivat ou Podgorica. Pas de navette, pas d'attente."
+      "desc": "L'aéroport de Tivat est à 35 km — prenez la route panoramique de la baie ou le raccourci par le ferry de Verige. Votre choix, votre horaire."
     },
     "fullInsurance": {
       "title": "Assurance tous risques",
-      "desc": "Couverture complète avec option zéro franchise. Conduisez en toute sérénité."
+      "desc": "Couverture CDW complète avec option zéro franchise. Indispensable pour les ruelles étroites de la vieille ville et l'autoroute croate après Debeli Brijeg."
     },
     "support": {
       "title": "Assistance 24h/24",
-      "desc": "Assistance routière et service client disponibles jour et nuit, tous les jours."
+      "desc": "Votre cure à Igalo a pris du retard ? Nous réorganiserons votre heure de prise en charge. Assistance routière disponible quand vous en avez besoin."
     },
     "noHiddenFees": {
       "title": "Aucun frais caché",
-      "desc": "Politique carburant, kilométrage, taxes — tout est inclus dans le prix affiché."
+      "desc": "Un prix transparent — kilométrage, TVA et surcharges transfrontalières pour la Croatie sont tous inclus. Aucune surprise lors de la prise en charge."
     },
     "freeCancellation": {
       "title": "Annulation gratuite",
-      "desc": "Les plans changent. Annulez jusqu'à 24 heures avant pour un remboursement intégral."
+      "desc": "Votre soin au spa a débordé ou vos plans pour Dubrovnik ont changé ? Annulez ou reportez jusqu'à 24 heures avant la prise en charge, sans frais."
     },
     "crossBorder": {
       "title": "Transfrontalier",
-      "desc": "Roulez en Croatia, Bosnia, Albania ou Kosovo. Les trajets transfrontaliers sont autorisés."
+      "desc": "Dubrovnik n'est qu'à 30 km via le passage de Debeli Brijeg — la ville monténégrine la plus proche de la Croatie. Carte verte incluse."
     }
   },
   "testimonials": {
     "0": {
-      "text": "J'ai récupéré une Octavia impeccable à l'aéroport de Tivat en moins de 5 minutes. Rapport qualité-prix incroyable."
+      "text": "Nous sommes venus pour les cures de boue d'Igalo et nous repartons avec des souvenirs de toute la baie. La voiture nous a permis de visiter Kotor entre les séances de spa et de découvrir les jardins du monastère de Savina dans la lumière du matin. Location parfaitement organisée."
     },
     "1": {
-      "text": "La BMW était en parfait état et les documents pour la Croatia étaient prêts à notre arrivée. Je recommande vivement."
+      "text": "Les jardins botaniques de Herceg Novi étaient magiques au printemps, et la voiture a rendu l'excursion à Dubrovnik tellement simple. Le passage de Debeli Brijeg n'a pris que vingt minutes à peine. Tous les documents étaient prêts lors de la prise en charge."
     },
     "2": {
-      "text": "Nous avons exploré le Montenegro pendant deux semaines. Le Jeep a parfaitement géré les routes de montagne."
+      "text": "Forte Mare au coucher du soleil, la vue depuis Savina sur la baie, puis le long retour doré le long de l'eau — j'ai tout photographié. La voiture était propre, la remise s'est faite sans accroc, et ils m'ont même conseillé la meilleure lumière pour la forteresse."
     }
   },
   "faqItems": {
     "0": {
       "q": "Quels documents dois-je fournir ?",
-      "a": "Un permis de conduire valide (les informations doivent figurer en caractères latins), un passeport et une carte de crédit physique au nom du conducteur principal. Un permis de conduire international est recommandé si votre permis n'est valable que dans son pays d'émission. Les copies ou permis électroniques ne sont pas acceptés."
+      "a": "Apportez un permis de conduire valide avec les informations en caractères latins, votre passeport et une carte de crédit physique au nom du conducteur principal. Si votre permis a été délivré hors de l'UE ou de l'EEE, un permis de conduire international est recommandé. Les copies et les permis électroniques ne sont pas acceptés par les agences de location."
     },
     "1": {
       "q": "Puis-je conduire en Croatie ou en Albanie ?",
-      "a": "Oui ! Si vous prévoyez de voyager en dehors du Monténégro, informez l'agent de location à l'avance afin qu'il puisse préparer les documents nécessaires. Les déplacements transfrontaliers vers les pays voisins sont autorisés."
+      "a": "Oui — et depuis Herceg Novi, c'est remarquablement facile. Dubrovnik n'est qu'à 30 km via le passage frontalier de Debeli Brijeg. Informez-nous lors de la réservation et nous veillerons à ce que la carte verte et les documents transfrontaliers soient prêts avant que vous récupériez le véhicule."
     },
     "2": {
       "q": "Y a-t-il un âge minimum ?",
-      "a": "L'âge minimum et les exigences en matière d'expérience de conduite varient selon le véhicule. Ces détails sont affichés lorsque vous recherchez les voitures disponibles."
+      "a": "L'âge minimum pour louer est de 21 ans, et les conducteurs doivent être titulaires d'un permis depuis au moins deux ans. Les conducteurs âgés de 21 à 24 ans paient un supplément jeune conducteur dont le montant varie selon la catégorie du véhicule — il est clairement indiqué avant la confirmation."
     },
     "3": {
       "q": "Qu'est-ce qui est inclus dans le prix ?",
-      "a": "Tous les véhicules sont assurés — la plupart incluent l'assurance responsabilité civile et la garantie dommages par collision (CDW) dans le prix de base. La TVA, les kits d'équipement (trousse de premiers secours, triangle de signalisation, gilet de haute visibilité) et une politique carburant transparente sont également inclus. Les conditions de kilométrage varient selon le véhicule. Des options de couverture étendue sont disponibles moyennant un supplément."
+      "a": "Tous les véhicules incluent la responsabilité civile et la plupart incluent le CDW dans le prix de base. La TVA, un kit d'équipement obligatoire (trousse de premiers secours, triangle de signalisation, gilet réfléchissant) et une politique carburant transparente sont également inclus. Les conditions de kilométrage varient selon le véhicule. Une couverture zéro franchise étendue est disponible en option."
     },
     "4": {
       "q": "Comment se passe la prise en charge ?",
-      "a": "Choisissez l'heure et le lieu de prise en charge lors de la réservation — les options varient selon l'agent de location et la destination. L'agent organisera la rencontre au lieu convenu. Pour les détails précis du point de rencontre, contactez l'agent directement après la réservation."
+      "a": "Nous proposons la livraison au centre-ville de Herceg Novi, dans le quartier thermal d'Igalo, ou un accueil aux arrivées de l'aéroport de Tivat — à 35 km par la route de la baie, soit environ 40 minutes. Choisissez votre lieu préféré lors de la réservation et l'agent confirmera le point de rencontre exact."
     },
     "5": {
       "q": "Puis-je restituer le véhicule dans un autre lieu ?",
-      "a": "Oui — les locations en aller simple sont proposées dans 28 villes et localités du Monténégro. Il vous suffit de choisir des lieux de prise en charge et de restitution différents lors de la réservation."
+      "a": "Oui — les locations aller simple sont disponibles dans 28 localités du Monténégro. Vous pouvez restituer le véhicule à Podgorica, Kotor, Budva ou à l'aéroport de Tivat. Sélectionnez des lieux de prise en charge et de restitution différents lors de la réservation."
     },
     "6": {
       "q": "Quelle est la politique d'annulation ?",
-      "a": "Annulation gratuite jusqu'à 7 jours avant la date de début de location. Pour les voitures de luxe et les cabriolets, l'annulation gratuite est possible jusqu'à 30 jours avant. Des frais de service de paiement de 6 % s'appliquent à toutes les annulations."
+      "a": "Les véhicules standard offrent une annulation gratuite jusqu'à 7 jours avant le début de la location. Les voitures de luxe et cabriolets nécessitent un préavis de 30 jours. Des frais de traitement de paiement de 6 % s'appliquent à toutes les annulations. Si vous devez modifier votre planning en raison d'un rendez-vous au spa ou d'une excursion, contactez-nous et nous ferons notre possible."
     },
     "7": {
       "q": "Un dépôt de garantie est-il requis ?",
-      "a": "Le montant du dépôt varie selon le véhicule — certains véhicules sont disponibles sans dépôt. Si un dépôt est requis, il doit être prélevé sur une carte de crédit physique au nom du conducteur principal et est remboursé à la restitution du véhicule en bon état."
+      "a": "Une caution de sécurité est bloquée sur une carte de crédit physique — le montant varie de 50 € à 300 € selon la catégorie du véhicule. Certaines citadines sont disponibles sans caution. Le blocage est levé quelques jours ouvrables après la restitution du véhicule en bon état."
     },
     "8": {
       "q": "Que se passe-t-il si je dépasse la limite de kilométrage ?",
-      "a": "Les véhicules avec restriction de kilométrage sont facturés au kilomètre supplémentaire. Les tarifs sont indiqués dans les détails du véhicule avant la réservation."
+      "a": "Les véhicules avec plafond kilométrique facturent un supplément par kilomètre au-delà de la limite convenue. Le tarif est indiqué dans les détails du véhicule avant la réservation. De nombreux véhicules proposent un kilométrage illimité, pratique si vous prévoyez plusieurs allers-retours à Dubrovnik ou un grand tour de la baie."
     },
     "9": {
       "q": "Y a-t-il des frais cachés ?",
-      "a": "Non. Le prix affiché comprend toutes les taxes et tous les frais. Ce qui est indiqué lors de la réservation correspond à ce que vous payez."
+      "a": "Aucun. Le prix affiché lors de la recherche comprend toutes les taxes, les frais obligatoires et les éventuelles surcharges transfrontalières pour la Croatie applicables à votre réservation. Ce que vous voyez est exactement ce que vous payez — pas de surcharges aéroportuaires ajoutées à la dernière minute."
     },
     "10": {
       "q": "Combien dois-je payer à l'avance ?",
-      "a": "Seulement 15 à 20 % du montant total sont nécessaires pour confirmer votre réservation. Le solde est payé directement à l'agent de location lors de la prise en charge."
+      "a": "La confirmation de votre réservation nécessite un acompte de 15 à 20 % du coût total de la location. Le solde est réglé directement avec l'agent lors de la prise en charge, que ce soit au centre de Herceg Novi, à Igalo ou à l'aéroport de Tivat."
     },
     "11": {
       "q": "Puis-je louer sans carte de crédit ?",
-      "a": "Certains véhicules sont disponibles sans carte de crédit. Vérifiez la disponibilité lors de votre recherche — les options sans carte de crédit sont clairement indiquées."
+      "a": "Un petit nombre de véhicules est disponible sans carte de crédit — ils sont clairement identifiés dans les résultats de recherche. Pour la plupart des voitures, une carte de crédit physique au nom du conducteur est requise pour le blocage de la caution."
     }
   },
   "destCards": {

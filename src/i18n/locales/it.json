@@ -197,88 +197,88 @@
   "featureCards": {
     "airportPickup": {
       "title": "Ritiro in aeroporto",
-      "desc": "Ritira la tua auto agli arrivi dell'aeroporto di Tivat o Podgorica. Nessuna navetta, nessuna attesa."
+      "desc": "L'aeroporto di Tivat è a 35 km — percorri la panoramica strada della baia o prendi il traghetto di Verige come scorciatoia. A tua scelta, ai tuoi ritmi."
     },
     "fullInsurance": {
       "title": "Assicurazione completa",
-      "desc": "Copertura completa con opzione franchigia zero. Guida in totale tranquillità."
+      "desc": "Copertura CDW completa con opzione franchigia zero. Indispensabile per i vicoli stretti della città vecchia e l'autostrada croata oltre Debeli Brijeg."
     },
     "support": {
       "title": "Assistenza 24/7",
-      "desc": "Soccorso stradale e servizio clienti disponibili 24 ore su 24, tutti i giorni."
+      "desc": "La visita termale a Igalo è durata più del previsto? Riorganizziamo il tuo orario di ritiro. Soccorso stradale disponibile quando ne hai bisogno."
     },
     "noHiddenFees": {
       "title": "Nessun costo nascosto",
-      "desc": "Politica carburante, chilometraggio, tasse — tutto è incluso nel prezzo che vedi."
+      "desc": "Un prezzo trasparente — chilometraggio, IVA e supplementi transfrontalieri per la Croazia sono tutti inclusi. Nessuna sorpresa al ritiro."
     },
     "freeCancellation": {
       "title": "Cancellazione gratuita",
-      "desc": "I piani cambiano. Cancella fino a 24 ore prima del ritiro per un rimborso completo."
+      "desc": "Il trattamento spa è andato oltre o i tuoi piani per Dubrovnik sono cambiati? Cancella o riprogramma fino a 24 ore prima del ritiro, senza costi."
     },
     "crossBorder": {
       "title": "Oltre confine",
-      "desc": "Guida in Croatia, Bosnia, Albania o Kosovo. Viaggi transfrontalieri consentiti."
+      "desc": "Dubrovnik è a soli 30 km tramite il valico di Debeli Brijeg — la città montenegrina più vicina alla Croazia. Carta verde inclusa."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Ho ritirato un'Octavia impeccabile all'aeroporto di Tivat in meno di 5 minuti. Valore incredibile."
+      "text": "Siamo venuti per le cure al fango di Igalo e siamo ripartiti con ricordi dell'intera baia. L'auto ci ha permesso di visitare Kotor tra una seduta e l'altra e di scoprire i giardini del monastero di Savina alla luce del mattino. Noleggio organizzato alla perfezione."
     },
     "1": {
-      "text": "La BMW era in condizioni perfette e i documenti per la Croatia erano pronti al nostro arrivo. Altamente consigliato."
+      "text": "I giardini botanici di Herceg Novi erano magici in primavera, e l'auto ha reso la gita a Dubrovnik semplicissima. Il valico di Debeli Brijeg ha richiesto appena venti minuti. Tutti i documenti erano pronti al ritiro."
     },
     "2": {
-      "text": "Abbiamo esplorato il Montenegro per due settimane. Il Jeep ha affrontato perfettamente le strade di montagna."
+      "text": "Forte Mare al tramonto, la vista da Savina sulla baia, poi il lungo ritorno dorato lungo l'acqua — ho fotografato tutto. L'auto era pulita, la consegna fluida, e mi hanno persino consigliato la luce migliore per fotografare la fortezza."
     }
   },
   "faqItems": {
     "0": {
       "q": "Quali documenti mi servono?",
-      "a": "Una patente di guida valida (deve riportare i dati in caratteri latini), un passaporto e una carta di credito fisica intestata al conducente principale. Si consiglia la Patente Internazionale di Guida se la propria patente è valida solo nel paese di rilascio. Copie o patenti elettroniche non sono accettate."
+      "a": "Porta una patente di guida valida con dati in caratteri latini, il tuo passaporto e una carta di credito fisica intestata al conducente principale. Se la patente è stata rilasciata fuori dall'UE o dallo SEE, si raccomanda la Patente Internazionale di Guida. Copie e patenti elettroniche non sono accettate dalle agenzie di noleggio."
     },
     "1": {
       "q": "Posso guidare in Croazia o Albania?",
-      "a": "Sì! Se prevedi di viaggiare fuori dal Montenegro, avvisa in anticipo l'agente di noleggio affinché possa preparare i documenti necessari. I viaggi transfrontalieri nei paesi limitrofi sono consentiti."
+      "a": "Sì — e da Herceg Novi è sorprendentemente semplice. Dubrovnik si trova a soli 30 km tramite il valico di frontiera di Debeli Brijeg. Comunicacelo al momento della prenotazione e ci assicureremo che la carta verde e i documenti per il transito siano pronti prima del ritiro."
     },
     "2": {
       "q": "C'è un'età minima?",
-      "a": "L'età minima e i requisiti di esperienza di guida variano in base al veicolo. Questi dettagli vengono mostrati quando cerchi le auto disponibili."
+      "a": "L'età minima per noleggiare è 21 anni, e i conducenti devono essere in possesso della patente da almeno due anni. I conducenti tra i 21 e i 24 anni pagano un supplemento giovani, il cui importo varia per categoria di veicolo — è chiaramente indicato prima della conferma."
     },
     "3": {
       "q": "Cosa è incluso nel prezzo?",
-      "a": "Tutti i veicoli sono assicurati — la maggior parte include l'assicurazione di responsabilità civile e la copertura per danni da collisione (CDW) nel prezzo base. IVA, kit di equipaggiamento (kit di primo soccorso, triangolo di emergenza, giubbotto catarifrangente) e una politica carburante trasparente sono inclusi. Le condizioni sul chilometraggio variano in base al veicolo. Opzioni di copertura estesa sono disponibili a un costo aggiuntivo."
+      "a": "Tutti i veicoli includono la responsabilità civile; la maggior parte include il CDW nel prezzo base. IVA, kit obbligatorio (kit di primo soccorso, triangolo di emergenza, giubbotto riflettente) e una politica carburante trasparente sono inclusi. Le condizioni sul chilometraggio variano per veicolo. Una copertura zero franchigia estesa è disponibile come optional."
     },
     "4": {
       "q": "Come funziona il ritiro?",
-      "a": "Scegli l'orario e il luogo di ritiro durante la prenotazione — le opzioni variano in base all'agente di noleggio e alla destinazione. L'agente organizzerà l'incontro nel luogo concordato. Per i dettagli precisi sul punto di incontro, contatta l'agente direttamente dopo la prenotazione."
+      "a": "Offriamo la consegna nel centro di Herceg Novi, nel quartiere termale di Igalo, oppure un accoglienza agli arrivi dell'aeroporto di Tivat — a 35 km lungo la strada della baia, circa 40 minuti. Scegli la tua location preferita durante la prenotazione e l'agente confermerà il punto d'incontro esatto."
     },
     "5": {
       "q": "Posso restituire il veicolo in un luogo diverso?",
-      "a": "Sì — il noleggio con riconsegna in altra sede è disponibile in 28 città e località del Montenegro. Basta scegliere luoghi di ritiro e riconsegna diversi durante la prenotazione."
+      "a": "Sì — il noleggio con riconsegna in altra sede è disponibile in 28 località del Montenegro. Puoi restituire l'auto a Podgorica, Kotor, Budva o all'aeroporto di Tivat. Seleziona luoghi di ritiro e riconsegna diversi durante la prenotazione."
     },
     "6": {
       "q": "Qual è la politica di cancellazione?",
-      "a": "Cancellazione gratuita fino a 7 giorni prima della data di inizio noleggio. Per auto di lusso e cabriolet, la cancellazione gratuita è disponibile fino a 30 giorni prima. Una commissione del 6 % per il servizio di pagamento si applica a tutte le cancellazioni."
+      "a": "I veicoli standard offrono la cancellazione gratuita fino a 7 giorni prima dell'inizio del noleggio. Auto di lusso e cabriolet richiedono 30 giorni di preavviso. Una commissione del 6 % per il servizio di pagamento si applica a tutte le cancellazioni. Se devi riprogrammare attorno a un appuntamento termale o a un'escursione, contattaci e faremo del nostro meglio."
     },
     "7": {
       "q": "È richiesto un deposito cauzionale?",
-      "a": "L'importo del deposito varia in base al veicolo — alcuni veicoli sono disponibili senza deposito. Se richiesto, il deposito deve essere su una carta di credito fisica intestata al conducente principale e viene rimborsato alla riconsegna del veicolo in buone condizioni."
+      "a": "Un deposito cauzionale viene bloccato su una carta di credito fisica — l'importo va da €50 a €300 a seconda della categoria del veicolo. Alcune citycar sono disponibili senza deposito. Il blocco viene svincolato entro pochi giorni lavorativi dalla riconsegna del veicolo in buone condizioni."
     },
     "8": {
       "q": "Cosa succede se supero il limite di chilometraggio?",
-      "a": "Per i veicoli con limiti di chilometraggio viene addebitato un costo per ogni chilometro eccedente. Le tariffe sono indicate nei dettagli del veicolo prima della prenotazione."
+      "a": "I veicoli con limite chilometrico addebitano un costo per ogni chilometro percorso oltre il limite concordato. La tariffa è indicata nei dettagli del veicolo prima della prenotazione. Molti veicoli offrono chilometraggio illimitato, utile se prevedi più viaggi a Dubrovnik o un lungo giro della baia."
     },
     "9": {
       "q": "Ci sono costi nascosti?",
-      "a": "No. Il prezzo visualizzato include tutte le tasse e i costi. Quello che vedi al momento della prenotazione è quello che paghi."
+      "a": "Nessuno. Il prezzo mostrato nella ricerca include tutte le tasse, le spese obbligatorie e gli eventuali supplementi per il transito in Croazia applicabili alla tua prenotazione. Quello che vedi è esattamente quello che paghi — nessun supplemento aeroportuale aggiunto all'ultimo momento."
     },
     "10": {
       "q": "Quanto pago in anticipo?",
-      "a": "Solo il 15–20 % del totale è richiesto per confermare la prenotazione. Il saldo viene pagato direttamente all'agente di noleggio al momento del ritiro."
+      "a": "La conferma della prenotazione richiede un acconto del 15–20 % del costo totale del noleggio. Il saldo viene saldato direttamente con l'agente al momento del ritiro, che sia al centro di Herceg Novi, a Igalo o all'aeroporto di Tivat."
     },
     "11": {
       "q": "Posso noleggiare senza carta di credito?",
-      "a": "Alcuni veicoli sono disponibili senza carta di credito. Verifica la disponibilità durante la ricerca — le opzioni senza carta di credito sono chiaramente indicate."
+      "a": "Un numero limitato di veicoli è disponibile senza carta di credito — sono chiaramente indicati nei risultati di ricerca. Per la maggior parte delle auto è richiesta una carta di credito fisica intestata al conducente per il blocco del deposito cauzionale."
     }
   },
   "destCards": {
