@@ -266,20 +266,8 @@
       "a": "A security deposit is held on a physical credit card — the amount ranges from €50 to €300 depending on the vehicle category. Some economy cars are available without a deposit. The hold is released within a few working days after you return the car in its original condition."
     },
     "8": {
-      "q": "What happens if I exceed the mileage limit?",
-      "a": "Vehicles with a mileage cap charge a per-kilometre fee for any distance driven above the agreed limit. The rate is shown in the vehicle details before you book. Many vehicles offer unlimited mileage, which is useful if you plan multiple Dubrovnik crossings or a longer bay road loop."
-    },
-    "9": {
-      "q": "Are there any hidden fees?",
-      "a": "None. The price displayed at search includes all taxes, mandatory fees, and any cross-border charges for Croatia that apply to your booking. What you see is exactly what you pay — no airport surcharges added at the last moment."
-    },
-    "10": {
-      "q": "How much do I pay upfront?",
-      "a": "Confirming your booking requires a down payment of 15–20% of the total rental cost. The remaining balance is settled directly with the rental agent when you collect the vehicle, whether in Herceg Novi centre, Igalo, or at Tivat Airport."
-    },
-    "11": {
-      "q": "Can I rent without a credit card?",
-      "a": "A small number of vehicles are available for renters without a credit card — these are clearly marked in the search results. For most cars, a physical credit card in the driver's name is required for the security deposit hold."
+      "q": "What is the Verige ferry and how much does it cost?",
+      "a": "The Kamenari-Lepetane ferry crosses the Bay of Kotor mouth in 5 minutes, running every 15 minutes. It costs about 5 EUR per car (cash only) and saves 30-45 minutes compared to driving the full bay road to Tivat. From Herceg Novi, drive south to Kamenari (10 minutes) and queue for the next crossing."
     }
   },
   "destCards": {

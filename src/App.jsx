@@ -32,10 +32,7 @@ import {
   Menu,
   X,
   MessageCircle,
-  Award,
-  TrendingUp,
 } from 'lucide-react';
-import { useRef, useCallback } from 'react';
 import config from './siteConfig';
 import './App.css';
 
@@ -322,68 +319,6 @@ function TrustStrip() {
 }
 
 /* ─── STAT COUNTERS ────────────────────────────────────── */
-function useCountUp(end, duration = 1.8) {
-  const [count, setCount] = useState(0);
-  const ref = useRef(null);
-  const started = useRef(false);
-
-  const onView = useCallback((entry) => {
-    if (entry[0]?.isIntersecting && !started.current) {
-      started.current = true;
-      const start = performance.now();
-      const tick = (now) => {
-        const progress = Math.min((now - start) / (duration * 1000), 1);
-        const eased = 1 - Math.pow(1 - progress, 3);
-        setCount(Math.round(eased * end));
-        if (progress < 1) requestAnimationFrame(tick);
-      };
-      requestAnimationFrame(tick);
-    }
-  }, [end, duration]);
-
-  useEffect(() => {
-    const obs = new IntersectionObserver(onView, { threshold: 0.3 });
-    if (ref.current) obs.observe(ref.current);
-    return () => obs.disconnect();
-  }, [onView]);
-
-  return [count, ref];
-}
-
-function StatCounters() {
-  const { t } = useTranslation();
-  const [years, yearsRef] = useCountUp(18);
-  const [rentals, rentalsRef] = useCountUp(2000);
-  const [locations, locsRef] = useCountUp(30);
-
-  const stats = [
-    { value: `${years}+`, label: t('stats.years'), icon: <Award size={22} />, ref: yearsRef },
-    { value: rentals >= 2000 ? '2,000+' : rentals.toLocaleString(), label: t('stats.rentals'), icon: <TrendingUp size={22} />, ref: rentalsRef },
-    { value: '4.8/5', label: t('stats.rating'), icon: <Star size={22} fill="currentColor" />, ref: null },
-    { value: `${locations}+`, label: t('stats.locations'), icon: <MapPin size={22} />, ref: locsRef },
-  ];
-
-  return (
-    <section className="stats-section">
-      <div className="container">
-        <div className="stats-grid">
-          {stats.map((s, i) => (
-            <div
-              key={s.label}
-              className="stat-card reveal-item"
-              ref={s.ref}
-            >
-              <div className="stat-card__icon">{s.icon}</div>
-              <div className="stat-card__value">{s.value}</div>
-              <div className="stat-card__label">{s.label}</div>
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
-
 /* ─── HOW IT WORKS ─────────────────────────────────────── */
 function HowItWorks() {
   const { t } = useTranslation();
@@ -415,28 +350,28 @@ function HowItWorks() {
 }
 
 /* ─── BRAND LOGOS ──────────────────────────────────────── */
-const CAR_BRANDS = [
-  { name: 'Toyota',     logo: '/img/logo-toyota.png' },
-  { name: 'Fiat',       logo: '/img/logo-fiat.png' },
-  { name: 'Volkswagen', logo: '/img/logo-volkswagen.png' },
-  { name: 'Peugeot',    logo: '/img/logo-peugeot.png' },
-  { name: 'Renault',    logo: '/img/logo-renault.png' },
-  { name: 'Hyundai',    logo: '/img/logo-hyundai.png' },
-  { name: 'Citroën',    logo: '/img/logo-citroen.png' },
-  { name: 'Suzuki',     logo: '/img/logo-suzuki.png' },
-  { name: 'Ford',       logo: '/img/logo-ford.png' },
-  { name: 'Dacia',      logo: '/img/logo-dacia.png' },
-];
-
-function BrandLogos() {
-  const { t } = useTranslation();
+/* ─── WHY HERCEG NOVI (UNIQUE) ─────────────────────────── */
+function WhyHercegNovi() {
   return (
-    <section className="brands-section">
+    <section className="section section--gray" id="why-herceg-novi">
       <div className="container">
-        <p className="brands-label">{t("brands.label")}</p>
-        <div className="brands-row">
-          {CAR_BRANDS.map((brand) => (
-            <img key={brand.name} className="brand-logo" src={brand.logo} alt={brand.name} loading="lazy" />
+        <div className="section-header">
+          <span className="section-label">Why Visit</span>
+          <h2 className="section-title">Why Herceg Novi?</h2>
+          <p className="section-subtitle">Where the Adriatic meets the mountains, and Croatia is a 15-minute drive away.</p>
+        </div>
+        <div className="why-hn-grid">
+          {[
+            { icon: <Star size={24} fill="currentColor" />, title: 'Spa Capital', desc: 'The Igalo Institute has drawn wellness visitors since 1949. Thermal mud, mineral water, and Adriatic sea air — all within walking distance.' },
+            { icon: <Globe size={24} />, title: 'Botanical Paradise', desc: '110+ plant species thrive in the city gardens. The Mimosa Festival every February fills the streets with colour and fragrance.' },
+            { icon: <MapPin size={24} />, title: 'Fortress Views', desc: 'Forte Mare, Kanli Kula amphitheatre, and the Savina Monastery — layers of Venetian, Ottoman, and Austrian history on every corner.' },
+            { icon: <Car size={24} />, title: 'Gateway to Croatia', desc: 'Dubrovnik is 30 minutes north via the Debeli Brijeg crossing. The easiest cross-border day trip in Montenegro.' },
+          ].map((item) => (
+            <div key={item.title} className="why-hn-card reveal-item">
+              <div className="why-hn-card__icon">{item.icon}</div>
+              <h3 className="why-hn-card__title">{item.title}</h3>
+              <p className="why-hn-card__desc">{item.desc}</p>
+            </div>
           ))}
         </div>
       </div>
@@ -689,9 +624,9 @@ function FAQ() {
         </div>
 
         <div className="faq-list">
-          {[0, 6].map(start => (
+          {[0, 5].map(start => (
             <div key={start} className="faq-column">
-              {[0, 1, 2, 3, 4, 5].map(offset => {
+              {Array.from({ length: start === 0 ? 5 : 4 }, (_, i) => i).map(offset => {
                 const i = start + offset;
                 const isOpen = open === i;
                 return (
@@ -845,13 +780,12 @@ export default function App() {
           <TrustStrip />
         </div>
         <Fleet />
+        <Features />
         <Reviews />
         <TrustpilotBanner />
         <HowItWorks />
-        <StatCounters />
-        <BrandLogos />
+        <WhyHercegNovi />
         <Destinations />
-        <Features />
         <FAQ />
         <CTABanner />
       </main>
