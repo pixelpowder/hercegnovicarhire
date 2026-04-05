@@ -9,10 +9,10 @@ import { LanguageContext } from '@/src/i18n/LanguageContext';
 import { DEFAULT_LANG } from '@/src/i18n/languages';
 
 export const metadata = {
-  title: 'Montenegro Car Hire — Tivat & Podgorica Airport Pickup',
+  title: 'Herceg Novi Car Hire — Boka Bay & Dubrovnik Corridor',
   description:
-    'Rent a car in Montenegro from €13/day. Pick up at Tivat Airport, Podgorica Airport, Kotor, Budva and 28+ locations. Free cancellation, full insurance, no hidden fees.',
-  metadataBase: new URL('https://www.montenegrocarhire.com'),
+    'Rent a car in Herceg Novi from €13/day. Gateway to Boka Bay and the Dubrovnik corridor. Pick up in Herceg Novi, Igalo, or Tivat Airport. Free cancellation, full insurance, no hidden fees.',
+  metadataBase: new URL('https://www.hercegnovicarhire.com'),
 };
 
 export default function RootLayout({ children }) {

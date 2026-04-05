@@ -3,8 +3,8 @@ import { buildAlternates } from '@/src/app/metadata';
 
 export function generateMetadata() {
   return {
-    title: 'Contact Us | Montenegro Car Hire',
-    description: 'Get in touch with Montenegro Car Hire. Email, phone, or WhatsApp — we\'re here to help you find the perfect rental car.',
+    title: 'Contact Us | Herceg Novi Car Hire',
+    description: 'Get in touch with Herceg Novi Car Hire. Email, phone, or WhatsApp — we\'re here to help you find the perfect rental car.',
     alternates: buildAlternates('contact'),
   };
 }

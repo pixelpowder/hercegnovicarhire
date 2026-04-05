@@ -12,7 +12,7 @@
     "perDay": "pro Tag"
   },
   "hero": {
-    "headline": "Mietwagen in Montenegro",
+    "headline": "Mietwagen in Herceg Novi",
     "badges": {
       "freeCancellation": "Kostenlose Stornierung",
       "fullInsurance": "Vollkasko inklusive",
@@ -49,7 +49,7 @@
     "step1Desc": "Wählen Sie aus Flughäfen, Kotor, Budva, Perast und weiteren Abholpunkten in ganz Montenegro und darüber hinaus.",
     "step2Title": "Wählen Sie Ihr Auto",
     "step2Desc": "Entdecken Sie unsere Flotte von sparsamen Kleinwagen bis zu Premium-SUVs. Filtern Sie nach Größe, Getriebe oder Budget.",
-    "step3Title": "Fahren Sie durch Montenegro",
+    "step3Title": "Fahren Sie durch die Bucht von Kotor",
     "step3Desc": "Wir empfangen Sie am Ankunftsbereich. Ihr Auto steht bereit. Entdecken Sie Küste, Berge und historische Städte."
   },
   "fleet": {
@@ -68,7 +68,7 @@
   "features": {
     "label": "Warum wir",
     "title": "Für Reisende gemacht",
-    "subtitle": "Alles, was Sie für eine stressfreie Autovermietung in Montenegro brauchen."
+    "subtitle": "Alles, was Sie für eine stressfreie Autovermietung in Herceg Novi brauchen."
   },
   "reviews": {
     "label": "Bewertungen",
@@ -95,10 +95,10 @@
   "book": {
     "title": "Finden Sie Ihr Auto",
     "seoTitle": "Auto buchen",
-    "seoDesc": "Mietwagen in Montenegro suchen und buchen. Echtzeit-Verfügbarkeit, sofortige Bestätigung, kostenlose Stornierung."
+    "seoDesc": "Mietwagen in Herceg Novi suchen und buchen. Echtzeit-Verfügbarkeit, sofortige Bestätigung, kostenlose Stornierung."
   },
   "footer": {
-    "brandDesc": "Premium-Autovermietung in Montenegro seit 2007. Flughafenabholung, Vollkasko und keine versteckten Kosten.",
+    "brandDesc": "Premium-Autovermietung in Herceg Novi seit 2007. Flughafenabholung, Vollkasko und keine versteckten Kosten.",
     "quickLinks": "Schnelllinks",
     "guides": "Reiseführer",
     "locations": "Standorte",
@@ -122,12 +122,12 @@
     "searchCars": "Autos suchen"
   },
   "home": {
-    "seoDesc": "Mietwagen in Montenegro ab 13 €/Tag. Abholung am Flughafen Tivat, Flughafen Podgorica, Kotor, Budva und über 28 Standorten. Kostenlose Stornierung, Vollkasko, keine versteckten Kosten. Online in wenigen Minuten buchen."
+    "seoDesc": "Mietwagen in Herceg Novi ab 13 €/Tag. Abholung am Flughafen Tivat, Flughafen Podgorica, Kotor, Budva und über 28 Standorten. Kostenlose Stornierung, Vollkasko, keine versteckten Kosten. Online in wenigen Minuten buchen."
   },
   "about": {
     "title": "Über uns",
     "subtitle": "Wir helfen Reisenden seit 2007, Montenegro zu entdecken.",
-    "seoDesc": "Über Montenegro Car Hire. Seit 2007 helfen wir Reisenden, Montenegro mit zuverlässigen Mietwagen, Flughafenzustellung und lokaler Expertise zu entdecken."
+    "seoDesc": "Über Herceg Novi Car Hire. Seit 2007 helfen wir Reisenden, Montenegro mit zuverlässigen Mietwagen, Flughafenzustellung und lokaler Expertise zu entdecken."
   },
   "kotor": {
     "title": "Mietwagen in Kotor",
@@ -171,8 +171,8 @@
   },
   "montenegro": {
     "title": "Mietwagen & Reiseführer Montenegro",
-    "subtitle": "Alles, was Sie über das Autofahren in Montenegro wissen müssen.",
-    "seoDesc": "Kompletter Leitfaden zum Autofahren in Montenegro. Verkehrsregeln, Geschwindigkeitsbegrenzungen, Kraftstoffpreise und die schönsten Routen von der Küste bis zu den Bergen."
+    "subtitle": "Alles, was Sie über das Autofahren in Herceg Novi wissen müssen.",
+    "seoDesc": "Kompletter Leitfaden zum Autofahren in Herceg Novi. Verkehrsregeln, Geschwindigkeitsbegrenzungen, Kraftstoffpreise und die schönsten Routen von der Küste bis zu den Bergen."
   },
   "border-crossing": {
     "title": "Balkan-Grenzübergangsführer",
@@ -182,17 +182,17 @@
   "privacy": {
     "title": "Datenschutzrichtlinie",
     "subtitle": "Wie wir mit Ihren Daten umgehen.",
-    "seoDesc": "Datenschutzrichtlinie von Montenegro Car Hire. Wie wir Ihre personenbezogenen Daten bei der Suche nach Mietwagen erheben, verwenden und schützen."
+    "seoDesc": "Datenschutzrichtlinie von Herceg Novi Car Hire. Wie wir Ihre personenbezogenen Daten bei der Suche nach Mietwagen erheben, verwenden und schützen."
   },
   "terms": {
     "title": "Allgemeine Geschäftsbedingungen",
     "subtitle": "Nutzungsbedingungen für unsere Website.",
-    "seoDesc": "Allgemeine Geschäftsbedingungen für die Nutzung von Montenegro Car Hire. Erfahren Sie mehr über Buchungsprozess, Mietpartner, Preise und Haftung."
+    "seoDesc": "Allgemeine Geschäftsbedingungen für die Nutzung von Herceg Novi Car Hire. Erfahren Sie mehr über Buchungsprozess, Mietpartner, Preise und Haftung."
   },
   "cookie-policy": {
     "title": "Cookie-Richtlinie",
     "subtitle": "Wie wir Cookies auf dieser Website verwenden.",
-    "seoDesc": "Cookie-Richtlinie von Montenegro Car Hire. Erfahren Sie, welche Cookies wir verwenden, wie das Buchungs-Widget Einstellungen speichert und wie Sie sie verwalten."
+    "seoDesc": "Cookie-Richtlinie von Herceg Novi Car Hire. Erfahren Sie, welche Cookies wir verwenden, wie das Buchungs-Widget Einstellungen speichert und wie Sie sie verwalten."
   },
   "featureCards": {
     "airportPickup": {
@@ -254,7 +254,7 @@
     },
     "5": {
       "q": "Ist eine Rückgabe an einem anderen Ort möglich?",
-      "a": "Ja — Einwegmieten werden für 28 Ziele in Montenegro angeboten. Wählen Sie hierzu bei der Buchung einfach Ihre gewünschten Abhol- und Rückgabeorte aus."
+      "a": "Ja — Einwegmieten werden für 28 Ziele in Herceg Novi angeboten. Wählen Sie hierzu bei der Buchung einfach Ihre gewünschten Abhol- und Rückgabeorte aus."
     },
     "6": {
       "q": "Kann ich meine Buchung stornieren?",
@@ -325,7 +325,7 @@
   },
   "aboutBody": {
     "h1": "Montenegro Autovermietung",
-    "p1": "Seit 2007 verbindet Montenegro Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann — Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern — hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
+    "p1": "Seit 2007 verbindet Herceg Novi Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann — Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern — hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
     "h2": "Warum wir angefangen haben",
     "p2": "Montenegro ist ein Land, das man am besten in eigenem Tempo erlebt. Die kurvigen Küstenstraßen, versteckten Bergdörfer und UNESCO-Welterbestätten sind mit öffentlichen Verkehrsmitteln nur schwer erreichbar. Wir sahen die Möglichkeit, Reisenden die Freiheit zu geben, Montenegro auf eigene Faust zu entdecken — keine Reisebusfahrpläne, keine verpassten Aussichtspunkte, keine Kompromisse.",
     "h3": "Was wir anbieten",
@@ -338,9 +338,9 @@
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
     "promise6": "24/7 Pannenhilfe während Ihrer gesamten Reise",
     "h4": "Lokales Wissen",
-    "p4": "Wir sind in Montenegro ansässig und kennen die Straßen, die besten Routen und die versteckten Schätze, die in keinem Reiseführer stehen. Ob Sie vom Tivat Airport zur mittelalterlichen Altstadt von Kotor fahren, die malerische Route durch die Bucht von Kotor nach Perast nehmen oder ins Landesinnere zum Durmitor-Nationalpark aufbrechen — wir helfen Ihnen, den perfekten Roadtrip zu planen.",
+    "p4": "Wir sind in Herceg Novi ansässig und kennen die Straßen, die besten Routen und die versteckten Schätze, die in keinem Reiseführer stehen. Ob Sie vom Tivat Airport zur mittelalterlichen Altstadt von Kotor fahren, die malerische Route durch die Bucht von Kotor nach Perast nehmen oder ins Landesinnere zum Durmitor-Nationalpark aufbrechen — wir helfen Ihnen, den perfekten Roadtrip zu planen.",
     "h5": "Kontaktieren Sie uns",
-    "p5": "Haben Sie Fragen zur Autovermietung in Montenegro? Wir sind per Telefon, WhatsApp und Viber erreichbar. Durchsuchen Sie unsere Flotte online und buchen Sie in wenigen Minuten — oder kontaktieren Sie uns und wir finden das perfekte Auto für Ihre Reise."
+    "p5": "Haben Sie Fragen zur Autovermietung in Herceg Novi? Wir sind per Telefon, WhatsApp und Viber erreichbar. Durchsuchen Sie unsere Flotte online und buchen Sie in wenigen Minuten — oder kontaktieren Sie uns und wir finden das perfekte Auto für Ihre Reise."
   },
   "kotorBody": {
     "h1": "Kotor — UNESCO-Weltkulturerbe",
@@ -391,7 +391,7 @@
   },
   "tivatBody": {
     "h1": "Tivat — Hafenstadt",
-    "p1": "Tivat ist eine der neueren Städte an der montenegrinischen Küste, die vor etwas mehr als einem Jahrhundert erbaut wurde. Die Stadt beherbergt einen von nur zwei öffentlichen Flughäfen in Montenegro — den Flughafen Tivat — was sie zu einem äußerst praktischen Ausgangspunkt für Besucher macht, die mit dem Flugzeug anreisen.",
+    "p1": "Tivat ist eine der neueren Städte an der montenegrinischen Küste, die vor etwas mehr als einem Jahrhundert erbaut wurde. Die Stadt beherbergt einen von nur zwei öffentlichen Flughäfen in Herceg Novi — den Flughafen Tivat — was sie zu einem äußerst praktischen Ausgangspunkt für Besucher macht, die mit dem Flugzeug anreisen.",
     "p2": "Dieser Badeort hat eine Bevölkerung von rund 13.000 Einwohnern. Besucher können Uferpromenaden genießen, in Restaurants am Wasser speisen und Geschäfte erkunden, die in engen Gassen versteckt sind. Während der Hochsaison vereint die Stadt Ruhe mit lebhafter touristischer Aktivität.",
     "beachesTitle": "Strände",
     "beachesText": "Tivat verfügt über 17 Strände entlang von 3 Kilometern Küstenlinie, die zu den schönsten des Mittelmeerraums zählen. Zu den besten Stränden gehören:",
@@ -408,7 +408,7 @@
   },
   "tivatAirportBody": {
     "h1": "Autovermietung am Flughafen Tivat (TIV)",
-    "p1": "Die kleine Stadt Tivat besitzt neben Podgorica den einzigen weiteren kommerziellen Flughafen in Montenegro. Die Einrichtung wurde kürzlich modernisiert und verfügt über ein neues Terminal für internationale Abflüge und Inlandsankünfte. Der Flughafencode ist TIV, und er liegt nur 4 km vom Stadtzentrum entfernt.",
+    "p1": "Die kleine Stadt Tivat besitzt neben Podgorica den einzigen weiteren kommerziellen Flughafen in Herceg Novi. Die Einrichtung wurde kürzlich modernisiert und verfügt über ein neues Terminal für internationale Abflüge und Inlandsankünfte. Der Flughafencode ist TIV, und er liegt nur 4 km vom Stadtzentrum entfernt.",
     "p2": "Wie Podgorica hat auch der Flughafen Tivat während der sommerlichen Hochsaison mehr Flüge, unterhält aber ganzjährig tägliche Flüge nach Belgrade. Charterflüge verkehren in den Sommermonaten besonders häufig. Aufgrund des einzigartigen Geländes rund um den Flughafen ist er als einer der anspruchsvollsten Flughäfen für Landungen bekannt.",
     "distancesTitle": "Entfernungen vom Flughafen Tivat",
     "dist1": "Kotor: ungefähr 10 Minuten",
@@ -521,7 +521,7 @@
     "croatiaFerry": "Es gibt auch die Fährverbindung Kamenari–Lepetane als Abkürzung über die Bucht von Kotor, die das Umfahren der gesamten Bucht erspart — das spart etwa 45 Minuten.",
     "albaniaTitle": "Montenegro → Albanien",
     "albaniaText": "Zwei Hauptübergänge: Sukobin/Muriqan (an der Küste, nahe Ulcinj) und Hani i Hotit (im Landesinneren, nahe dem Skadar-See). Der Küstenübergang ist reisefreundlicher und hat in der Regel kürzere Wartezeiten.",
-    "albaniaNote": "Hinweis: Die Straßen in Albanien unterscheiden sich erheblich von denen in Montenegro. Fahren Sie vorsichtig, besonders auf Landstraßen.",
+    "albaniaNote": "Hinweis: Die Straßen in Albanien unterscheiden sich erheblich von denen in Herceg Novi. Fahren Sie vorsichtig, besonders auf Landstraßen.",
     "bosniaTitle": "Montenegro → Bosnien und Herzegowina",
     "bosniaText": "Der Hauptübergang befindet sich bei Šćepan Polje (nahe Foča), wenn Sie nach Norden fahren, oder über Vilusi von Nikšić aus. Die Grenzübergänge sind in der Regel ruhig mit minimalen Wartezeiten außerhalb des Sommers.",
     "serbiaTitle": "Montenegro → Serbien",

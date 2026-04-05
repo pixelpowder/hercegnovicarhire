@@ -3,7 +3,7 @@ import Privacy from '@/src/components/pages/Privacy';
 
 export async function generateMetadata() {
   return {
-    title: t('en', 'privacy.title') + ' | Montenegro Car Hire',
+    title: t('en', 'privacy.title') + ' | Herceg Novi Car Hire',
     description: t('en', 'privacy.seoDesc'),
     alternates: buildAlternates('privacy'),
   };

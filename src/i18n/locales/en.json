@@ -12,7 +12,7 @@
     "perDay": "per day"
   },
   "hero": {
-    "headline": "Montenegro Car Hire",
+    "headline": "Herceg Novi Car Hire — Boka Bay Gateway",
     "badges": {
       "freeCancellation": "Free Cancellation",
       "fullInsurance": "Full Insurance Included",
@@ -47,11 +47,11 @@
     "title": "On the Road in 3 Steps",
     "subtitle": "Simple booking. Instant confirmation. No queues at the airport.",
     "step1Title": "Choose Your Location",
-    "step1Desc": "Select from airports, Kotor, Budva, Perast and more pickup points across Montenegro and beyond.",
+    "step1Desc": "Pick up in Herceg Novi centre, Igalo, or at Tivat Airport — just 35km away.",
     "step2Title": "Pick Your Car",
     "step2Desc": "Browse our fleet from economy runabouts to premium SUVs. Filter by size, transmission, or budget.",
-    "step3Title": "Drive Montenegro",
-    "step3Desc": "We meet you at arrivals. Your car is ready. Explore the coast, mountains, and historic towns."
+    "step3Title": "Drive Boka Bay & Beyond",
+    "step3Desc": "Your car is ready. Explore Boka Bay, cross into Croatia, or head south along the Adriatic coast."
   },
   "fleet": {
     "label": "Our Fleet",
@@ -63,18 +63,18 @@
   },
   "destinations": {
     "label": "Top Destinations",
-    "title": "Explore Montenegro",
-    "subtitle": "From the Bay of Kotor to the Albanian border — each destination a different world."
+    "title": "Explore from Herceg Novi",
+    "subtitle": "From the fortress town to Dubrovnik, Boka Bay, and the Adriatic coast — each destination a short drive away."
   },
   "features": {
     "label": "Why Choose Us",
     "title": "Built for Travellers",
-    "subtitle": "Everything you need for a stress-free car rental in Montenegro."
+    "subtitle": "Everything you need for a stress-free car rental in Herceg Novi."
   },
   "reviews": {
     "label": "Reviews",
     "title": "Loved by Travellers",
-    "subtitle": "Real experiences from real customers across Montenegro."
+    "subtitle": "Real experiences from travellers renting in Herceg Novi and the Boka Bay area."
   },
   "faq": {
     "label": "FAQ",
@@ -82,13 +82,13 @@
     "subtitle": "Everything you need to know before you book."
   },
   "cta": {
-    "title": "Ready to Explore Montenegro?",
-    "subtitle": "Book in minutes. Pick up at the airport. Drive the entire Adriatic coast at your own pace.",
+    "title": "Ready to Explore from Herceg Novi?",
+    "subtitle": "Book in minutes. Pick up in Herceg Novi or at the airport. Drive to Dubrovnik, Boka Bay, and the entire coast.",
     "browseFleet": "Browse Fleet"
   },
   "sidebar": {
     "bookTitle": "Book Your Car",
-    "bookText": "Search real-time availability and prices across Montenegro.",
+    "bookText": "Search real-time availability and prices in Herceg Novi and across Montenegro.",
     "helpTitle": "Need Help?",
     "helpText": "Our team is available via WhatsApp, Viber, or phone.",
     "popularDest": "Popular Destinations"
@@ -96,10 +96,10 @@
   "book": {
     "title": "Find Your Car",
     "seoTitle": "Book a Car",
-    "seoDesc": "Search and book rental cars in Montenegro. Real-time availability, instant confirmation, free cancellation."
+    "seoDesc": "Search and book rental cars in Herceg Novi, Montenegro. Real-time availability, instant confirmation, free cancellation."
   },
   "footer": {
-    "brandDesc": "Premium car rentals in Montenegro since 2007. Airport pickups, full insurance, and no hidden fees.",
+    "brandDesc": "Car hire in Herceg Novi, gateway to Boka Bay. Airport pickups, full insurance, and no hidden fees.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "locations": "Locations",
@@ -123,14 +123,14 @@
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Rent a car in Montenegro from €13/day. Pick up at Tivat Airport, Podgorica Airport, Kotor, Budva and 28+ locations. Free cancellation, full insurance, no hidden fees. Book online in minutes."
+    "seoDesc": "Rent a car in Herceg Novi from €13/day. Gateway to Boka Bay and the Dubrovnik corridor. Pick up in Herceg Novi, Igalo, or Tivat Airport. Free cancellation, full insurance, no hidden fees."
   },
   "about": {
     "title": "About Us",
-    "subtitle": "Helping travellers explore Montenegro since 2007.",
-    "seoDesc": "About Montenegro Car Hire. Helping travellers explore Montenegro since 2007 with reliable rental cars, airport delivery, and local expertise.",
-    "heading1": "Montenegro Car Hire",
-    "p1": "Since 2007, Montenegro Car Hire has been connecting travellers with reliable, affordable rental cars across Montenegro. What started as a simple idea — making it easier for visitors to explore this stunning corner of the Adriatic — has grown into one of the country's most trusted car rental services.",
+    "subtitle": "Helping travellers explore Herceg Novi and Boka Bay since 2007.",
+    "seoDesc": "About Herceg Novi Car Hire. Helping travellers explore the Boka Bay entrance since 2007 with reliable rental cars, airport delivery, and local expertise.",
+    "heading1": "Herceg Novi Car Hire",
+    "p1": "Since 2007, Herceg Novi Car Hire has been connecting travellers with reliable, affordable rental cars across Montenegro. What started as a simple idea — making it easier for visitors to explore this stunning corner of the Adriatic — has grown into one of the country's most trusted car rental services.",
     "heading2": "Why We Started",
     "p2": "Montenegro is a country best experienced at your own pace. The winding coastal roads, hidden mountain villages, and UNESCO-listed towns are difficult to reach by public transport. We saw an opportunity to give travellers the freedom to discover Montenegro on their own terms — no tour bus schedules, no missed viewpoints, no compromises.",
     "heading3": "What We Offer",
@@ -222,7 +222,7 @@
     "seoDesc": "Hire a car in Tivat, home of Porto Montenegro marina. Explore nearby beaches, Kotor, and the Bay of Kotor with affordable car rental."
   },
   "montenegro": {
-    "title": "Montenegro Car Hire & Travel Guide",
+    "title": "Montenegro Driving & Travel Guide",
     "subtitle": "Everything you need to know about driving in Montenegro.",
     "seoDesc": "Complete guide to driving in Montenegro. Road rules, speed limits, fuel prices, and the best scenic routes from coast to mountains."
   },
@@ -234,22 +234,22 @@
   "privacy": {
     "title": "Privacy Policy",
     "subtitle": "How we handle your information.",
-    "seoDesc": "Privacy policy for Montenegro Car Hire. How we collect, use, and protect your personal data when you search for rental cars."
+    "seoDesc": "Privacy policy for Herceg Novi Car Hire. How we collect, use, and protect your personal data when you search for rental cars in Herceg Novi."
   },
   "terms": {
     "title": "Terms & Conditions",
     "subtitle": "Terms of use for our website.",
-    "seoDesc": "Terms and conditions for using Montenegro Car Hire. Learn about our booking process, rental partner, pricing, and liability."
+    "seoDesc": "Terms and conditions for using Herceg Novi Car Hire. Learn about our booking process, rental partner, pricing, and liability."
   },
   "cookie-policy": {
     "title": "Cookie Policy",
     "subtitle": "How we use cookies on this website.",
-    "seoDesc": "Cookie policy for Montenegro Car Hire. Learn what cookies we use, how the booking widget stores preferences, and how to manage them."
+    "seoDesc": "Cookie policy for Herceg Novi Car Hire. Learn what cookies we use, how the booking widget stores preferences, and how to manage them."
   },
   "featureCards": {
     "airportPickup": {
       "title": "Airport Pickup",
-      "desc": "Collect your car at Tivat or Podgorica airport arrivals. No shuttle, no waiting."
+      "desc": "Collect your car at Tivat Airport or have it delivered to Herceg Novi. No shuttle, no waiting."
     },
     "fullInsurance": {
       "title": "Full Insurance",
@@ -269,18 +269,18 @@
     },
     "crossBorder": {
       "title": "Cross-Border",
-      "desc": "Drive into Croatia, Bosnia, Albania, or Kosovo. Cross-border travel permitted."
+      "desc": "Drive across the Croatian border to Dubrovnik and beyond. Cross-border travel permitted."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Picked up a spotless Octavia at Tivat airport in under 5 minutes. Drove the entire coast down to Ulcinj. Incredible value."
+      "text": "Picked up our car in Herceg Novi and drove the Dubrovnik corridor the same afternoon. Paperwork for Croatia was ready. Brilliant service."
     },
     "1": {
-      "text": "The BMW was in perfect condition and the cross-border paperwork for Croatia was ready when we arrived. Highly recommend."
+      "text": "We stayed in Igalo for the spa and used the rental to explore Kotor, Perast, and Budva. The golden coastline is stunning from a car."
     },
     "2": {
-      "text": "We explored Montenegro for two weeks. The Jeep handled mountain roads perfectly. Best car hire experience we've ever had."
+      "text": "Herceg Novi was our base for two weeks. The Jeep handled the bay road to Tivat perfectly and we crossed into Croatia three times."
     }
   },
   "faqItems": {
@@ -336,63 +336,58 @@
   "destCards": {
     "tivat-airport": {
       "name": "Tivat Airport",
-      "tag": "Most Popular",
-      "desc": "Our main hub. We meet you at arrivals."
+      "tag": "35 min Drive",
+      "desc": "Closest airport to Herceg Novi via the bay road."
     },
     "kotor": {
       "name": "Kotor",
       "tag": "UNESCO Site",
-      "desc": "Medieval walled city on the Adriatic."
-    },
-    "podgorica-airport": {
-      "name": "Podgorica Airport",
-      "tag": "Capital Hub",
-      "desc": "Montenegro's main international airport."
-    },
-    "perast": {
-      "name": "Perast",
-      "tag": "Hidden Gem",
-      "desc": "Baroque village on the Bay of Kotor."
-    },
-    "budva": {
-      "name": "Budva",
-      "tag": "Beach Town",
-      "desc": "Riviera beaches and the old town walls."
+      "desc": "Medieval walled city, 45 minutes along the bay."
     },
     "dubrovnik-airport": {
       "name": "Dubrovnik Airport",
       "tag": "Cross-Border",
-      "desc": "Fly into Dubrovnik, drive into Montenegro."
+      "desc": "Just 30km away across the Croatian border."
+    },
+    "perast": {
+      "name": "Perast",
+      "tag": "Hidden Gem",
+      "desc": "Baroque village on the bay, 30 minutes away."
+    },
+    "budva": {
+      "name": "Budva",
+      "tag": "Beach Town",
+      "desc": "Riviera beaches and nightlife, 1 hour south."
     },
     "tivat": {
-      "name": "Tivat",
-      "tag": "Marina Town",
-      "desc": "Porto Montenegro and stunning Boka Bay."
+      "name": "Lustica Peninsula",
+      "tag": "Beaches",
+      "desc": "Secluded beaches and olive groves across the bay."
     },
     "podgorica": {
-      "name": "Podgorica",
-      "tag": "Capital City",
-      "desc": "Montenegro's modern capital — culture and commerce."
+      "name": "Risan",
+      "tag": "Roman Mosaics",
+      "desc": "Ancient town with Roman mosaics, 20 min drive."
     }
   },
   "aboutBody": {
-    "h1": "Montenegro Car Hire",
-    "p1": "Since 2007, Montenegro Car Hire has been connecting travellers with reliable, affordable rental cars across Montenegro. What started as a simple idea — making it easier for visitors to explore this stunning corner of the Adriatic — has grown into one of the country's most trusted car rental services.",
-    "h2": "Why We Started",
-    "p2": "Montenegro is a country best experienced at your own pace. The winding coastal roads, hidden mountain villages, and UNESCO-listed towns are difficult to reach by public transport. We saw an opportunity to give travellers the freedom to discover Montenegro on their own terms — no tour bus schedules, no missed viewpoints, no compromises.",
+    "h1": "Herceg Novi Car Hire",
+    "p1": "Herceg Novi Car Hire connects travellers with reliable, affordable rental cars in Herceg Novi and across Montenegro. Located at the entrance to the Bay of Kotor and just 30km from Dubrovnik, Herceg Novi is the perfect base for exploring the Adriatic coast by car.",
+    "h2": "Why Herceg Novi",
+    "p2": "Herceg Novi sits at the gateway to Boka Bay, where Montenegro meets Croatia. The fortress town, Igalo spa resort, and 25km riviera with 20+ beaches are best explored with your own wheels. From here you can reach Dubrovnik in 30 minutes, Kotor in 45 minutes, and Budva in an hour — all along some of the most scenic roads in Europe.",
     "h3": "What We Offer",
-    "p3": "We provide car rental services throughout Montenegro, with pickup and dropoff at Tivat Airport, Podgorica Airport, and locations across the coast and interior. Our fleet ranges from compact city cars to spacious SUVs, all fully insured with no hidden fees.",
+    "p3": "We provide car rental services with pickup and dropoff in Herceg Novi centre, Igalo, Tivat Airport, and locations across the coast. Our fleet ranges from compact city cars to spacious SUVs, all fully insured with no hidden fees.",
     "promiseTitle": "Our Promise",
     "promise1": "Full insurance with zero excess options available",
-    "promise2": "Airport meet-and-greet — we bring the car to you at arrivals",
+    "promise2": "Delivery to Herceg Novi or airport meet-and-greet at Tivat",
     "promise3": "No hidden fees — the price you see is the price you pay",
     "promise4": "Cross-border travel permitted to Croatia, Bosnia, Albania, Serbia, and Kosovo",
     "promise5": "Free cancellation on most bookings",
     "promise6": "24/7 roadside assistance throughout your trip",
     "h4": "Local Knowledge",
-    "p4": "Based in Montenegro, we know the roads, the best routes, and the hidden gems that guidebooks miss. Whether you're driving from Tivat Airport to Kotor's medieval old town, taking the scenic route through the Bay of Kotor to Perast, or heading inland to Durmitor National Park, we can help you plan the perfect road trip.",
+    "p4": "Based in Herceg Novi, we know the roads, the best routes, and the hidden gems that guidebooks miss. Whether you're driving to Kotor's medieval old town, crossing the border to Dubrovnik, exploring Savina Monastery, or heading to Igalo's therapeutic spas, we can help you plan the perfect road trip.",
     "h5": "Get in Touch",
-    "p5": "Have a question about renting a car in Montenegro? We're available via phone, WhatsApp, and Viber. Search our fleet online and book in minutes — or reach out and we'll help you find the perfect car for your trip."
+    "p5": "Have a question about renting a car in Herceg Novi? We're available via phone, WhatsApp, and Viber. Search our fleet online and book in minutes — or reach out and we'll help you find the perfect car for your trip."
   },
   "kotorBody": {
     "h1": "Kotor — UNESCO World Heritage Site",
