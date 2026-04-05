@@ -9,9 +9,9 @@ import { LanguageContext } from '@/src/i18n/LanguageContext';
 import { DEFAULT_LANG } from '@/src/i18n/languages';
 
 export const metadata = {
-  title: 'Herceg Novi Car Hire — Boka Bay & Dubrovnik Corridor',
+  title: 'Herceg Novi Car Hire — Bay Entrance, Croatia Border',
   description:
-    'Rent a car in Herceg Novi from €13/day. Gateway to Boka Bay and the Dubrovnik corridor. Pick up in Herceg Novi, Igalo, or Tivat Airport. Free cancellation, full insurance, no hidden fees.',
+    'Where Croatia meets Montenegro. Pick up in Herceg Novi or Tivat Airport from \u20AC13/day. Dubrovnik is 30 km away, Kotor 45 min through the bay. Cross-border cars ready.',
   metadataBase: new URL('https://www.hercegnovicarhire.com'),
 };
 
