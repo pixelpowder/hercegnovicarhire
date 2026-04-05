@@ -198,88 +198,88 @@
   "featureCards": {
     "airportPickup": {
       "title": "Airport Pickup",
-      "desc": "Collect your car at Tivat Airport or have it delivered to the Igalo spa quarter. No shuttle, no waiting."
+      "desc": "Tivat Airport is 35 km away — take the scenic bay road or the Verige ferry shortcut. Your choice, your schedule."
     },
     "fullInsurance": {
       "title": "Full Insurance",
-      "desc": "Comprehensive coverage with zero excess option. Drive the winding bay roads with complete peace of mind."
+      "desc": "Full CDW coverage with zero excess option. Essential for the narrow lanes of the old town and the Croatian motorway beyond Debeli Brijeg."
     },
     "support": {
       "title": "24/7 Support",
-      "desc": "Roadside assistance and customer service around the clock — from Herceg Novi's promenade to the Croatian border."
+      "desc": "Igalo checkup ran late? We'll rearrange your pickup time. Roadside assistance available whenever you need us."
     },
     "noHiddenFees": {
       "title": "No Hidden Fees",
-      "desc": "Fuel policy, mileage, tax — everything is included in the price you see."
+      "desc": "One transparent price — mileage, VAT, and cross-border surcharges for Croatia are all included. No surprises at pickup."
     },
     "freeCancellation": {
       "title": "Free Cancellation",
-      "desc": "Plans change. Cancel up to 24 hours before pickup for a full refund."
+      "desc": "Spa treatment overran or your Dubrovnik day trip plans shifted? Cancel or reschedule up to 24 hours before pickup, free of charge."
     },
     "crossBorder": {
       "title": "Cross-Border Ready",
-      "desc": "Drive across the Debeli Brijeg crossing to Dubrovnik and beyond. Green card and paperwork arranged."
+      "desc": "Dubrovnik is just 30 km via the Debeli Brijeg crossing — the closest Montenegrin town to Croatia. Green card included."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Collected our car near the Igalo spa and spent the afternoon in Dubrovnik. The border paperwork was sorted before we arrived. Seamless."
+      "text": "We came for the Igalo mud treatments and left with memories of the whole bay. Having a car meant we could visit Kotor between spa sessions and catch the Savina Monastery gardens in the morning light. Perfectly organised rental."
     },
     "1": {
-      "text": "We came for the Igalo mud treatments and used the rental to explore Kotor and Perast. Driving along the bay with the mountains rising out of the water was the highlight of our trip."
+      "text": "The botanical gardens of Herceg Novi were magical in spring, and the car made it so easy to drive to Dubrovnik for the day. The Debeli Brijeg crossing took barely twenty minutes. All the documents were ready at pickup."
     },
     "2": {
-      "text": "Herceg Novi was our base for two weeks. We walked the botanical gardens in the morning and drove to a different beach every afternoon. The Verige ferry shortcut to Tivat saved us an hour each time."
+      "text": "Forte Mare at sunset, the view from Savina across the bay, and then the long golden drive back along the water — I photographed it all. The car was clean, the handover was smooth, and they even suggested the best light for the fortress."
     }
   },
   "faqItems": {
     "0": {
       "q": "What documents do I need?",
-      "a": "A valid driving licence (must show Latin script details), a foreign passport, and a physical credit card in the main driver's name. International Driving Permit recommended if your licence is only valid in its country of origin. Copies or electronic licences are not accepted."
+      "a": "Bring a valid driving licence showing Latin-script details, your passport, and a physical credit card in the main driver's name. If your licence was issued outside the EU or EEA, an International Driving Permit is recommended. Electronic copies and photocopies are not accepted by rental agents."
     },
     "1": {
       "q": "Can I drive to Croatia or Albania?",
-      "a": "Yes! If you plan to travel outside Montenegro, notify the rental agent in advance so they can complete the required documents. Cross-border travel to neighbouring countries is permitted."
+      "a": "Yes — and from Herceg Novi it is remarkably easy. Dubrovnik is only 30 km away via the Debeli Brijeg border crossing. Let us know at booking and we will ensure the Green Card and cross-border documentation are ready before you collect the car."
     },
     "2": {
       "q": "Is there a minimum age?",
-      "a": "The minimum age and driving experience requirements vary by vehicle. These details are shown when you search for available cars."
+      "a": "The minimum age to rent is 21, and drivers must hold a full licence for at least two years. Drivers aged 21–24 pay a young driver supplement, and the exact amount varies by vehicle class — it is shown clearly in the search results before you confirm."
     },
     "3": {
       "q": "What's included in the price?",
-      "a": "All vehicles come with insurance — most include Third Party Liability and Collision Damage Waiver (CDW) in the base price. VAT, equipment kits (first aid, warning triangle, visibility vest), and a transparent fuel policy are also included. Mileage terms vary by vehicle. Extended coverage options are available for an additional fee."
+      "a": "All vehicles include Third Party Liability insurance and most include CDW in the base price. VAT, a mandatory equipment kit (first-aid box, warning triangle, reflective vest), and a transparent fuel policy are also included. Mileage terms vary by vehicle — check the listing details. Extended zero-excess cover is available as an add-on."
     },
     "4": {
       "q": "How does pickup work?",
-      "a": "Choose your pickup time and location during booking — options vary depending on the rental agent and destination. The agent will arrange to meet you at the agreed location. For precise meeting point details, contact the agent directly after booking."
+      "a": "We offer delivery to Herceg Novi town centre, the Igalo spa quarter, or a meet-and-greet at Tivat Airport arrivals — 35 km along the bay road, roughly 40 minutes. Choose your preferred location during booking and the agent will confirm the exact meeting point."
     },
     "5": {
       "q": "Can I drop off at a different location?",
-      "a": "Yes — one-way rentals are supported across 28 cities and towns in Montenegro. Simply choose different pickup and dropoff locations during booking."
+      "a": "Yes — one-way rentals are available across 28 locations throughout Montenegro. You can return the car in Podgorica, Kotor, Budva, or even Tivat Airport. Select separate pickup and drop-off points when booking."
     },
     "6": {
       "q": "What is the cancellation policy?",
-      "a": "Free cancellation up to 7 days before the rental start date. For luxury cars and convertibles, free cancellation is available up to 30 days before. A 6% payment service fee applies to all cancellations."
+      "a": "Standard vehicles offer free cancellation up to 7 days before the rental start. Luxury cars and convertibles require 30 days' notice for a free cancellation. A 6% payment processing fee applies to all cancellations. If you need to reschedule around a spa appointment or day trip, contact us and we will do our best to accommodate."
     },
     "7": {
       "q": "Is a deposit required?",
-      "a": "Deposit amounts vary by vehicle — some cars are available with no deposit. If required, the deposit must be on a physical credit card in the main driver's name and is refunded upon return of the vehicle in good condition."
+      "a": "A security deposit is held on a physical credit card — the amount ranges from €50 to €300 depending on the vehicle category. Some economy cars are available without a deposit. The hold is released within a few working days after you return the car in its original condition."
     },
     "8": {
       "q": "What happens if I exceed the mileage limit?",
-      "a": "Vehicles with mileage restrictions are charged per kilometre over the limit. Rates are shown in the vehicle details before you book."
+      "a": "Vehicles with a mileage cap charge a per-kilometre fee for any distance driven above the agreed limit. The rate is shown in the vehicle details before you book. Many vehicles offer unlimited mileage, which is useful if you plan multiple Dubrovnik crossings or a longer bay road loop."
     },
     "9": {
       "q": "Are there any hidden fees?",
-      "a": "No. The price you see includes all taxes and fees. What's shown at booking is what you pay."
+      "a": "None. The price displayed at search includes all taxes, mandatory fees, and any cross-border charges for Croatia that apply to your booking. What you see is exactly what you pay — no airport surcharges added at the last moment."
     },
     "10": {
       "q": "How much do I pay upfront?",
-      "a": "Only 15–20% of the total is required to confirm your booking. The remainder is paid directly to the rental agent at pickup."
+      "a": "Confirming your booking requires a down payment of 15–20% of the total rental cost. The remaining balance is settled directly with the rental agent when you collect the vehicle, whether in Herceg Novi centre, Igalo, or at Tivat Airport."
     },
     "11": {
       "q": "Can I rent without a credit card?",
-      "a": "Some vehicles are available without a credit card. Check availability when searching — card-free options are clearly marked."
+      "a": "A small number of vehicles are available for renters without a credit card — these are clearly marked in the search results. For most cars, a physical credit card in the driver's name is required for the security deposit hold."
     }
   },
   "destCards": {
