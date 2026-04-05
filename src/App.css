@@ -568,7 +568,7 @@
   position: absolute;
   inset: 0;
   z-index: 0;
-  background: rgb(61,48,16);
+  background: rgb(26,32,44);
 }
 
 .hero-wrapper__bg::after {
@@ -577,9 +577,9 @@
   inset: 0;
   background: linear-gradient(
     to bottom,
-    rgba(61, 48, 16, 0.55) 0%,
-    rgba(61, 48, 16, 0.40) 50%,
-    rgba(61, 48, 16, 0.30) 100%
+    rgba(26, 32, 44, 0.55) 0%,
+    rgba(26, 32, 44, 0.40) 50%,
+    rgba(26, 32, 44, 0.30) 100%
   );
   z-index: 2;
 }
@@ -790,7 +790,7 @@
 
 /* ─── BOOKING CARD ─────────────────────────────────────── */
 .booking-card {
-  background: rgba(61, 48, 16, 0.85);
+  background: rgba(26, 32, 44, 0.85);
   border-radius: 12px;
   padding: 25px 28px 25px;
   max-width: 100%;
@@ -956,7 +956,7 @@ select.booking-field__input {
 
 /* ─── TRUST STRIP ──────────────────────────────────────── */
 .trust-strip {
-  background: rgba(61, 48, 16, 0.93);
+  background: rgba(26, 32, 44, 0.93);
   backdrop-filter: blur(80px);
   -webkit-backdrop-filter: blur(80px);
   padding: 40px 0;
@@ -1265,7 +1265,7 @@ select.booking-field__input {
 .faq-item {
   background: #fff !important;
   border: 1px solid var(--gray-200, #e5e7eb) !important;
-  box-shadow: 0 2px 8px rgba(61, 48, 16,0.06) !important;
+  box-shadow: 0 2px 8px rgba(26, 32, 44,0.06) !important;
 }
 
 .step-card {
@@ -1328,7 +1328,7 @@ select.booking-field__input {
 .dest-card__overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(61, 48, 16,0.7) 0%, rgba(61, 48, 16,0.05) 55%);
+  background: linear-gradient(to top, rgba(26, 32, 44,0.7) 0%, rgba(26, 32, 44,0.05) 55%);
   backdrop-filter: blur(1px);
   -webkit-backdrop-filter: blur(1px);
   padding: 18px;
@@ -1339,7 +1339,7 @@ select.booking-field__input {
 
 .dest-card {
   border: 1px solid rgba(255,255,255,0.8);
-  box-shadow: 0 4px 24px rgba(61, 48, 16,0.06), inset 0 1px 0 rgba(255,255,255,0.9);
+  box-shadow: 0 4px 24px rgba(26, 32, 44,0.06), inset 0 1px 0 rgba(255,255,255,0.9);
 }
 
 .dest-card__tag {
@@ -1610,7 +1610,7 @@ select.booking-field__input {
 }
 
 .feature-card:hover {
-  box-shadow: 0 8px 32px rgba(61, 48, 16,0.1), inset 0 1px 0 rgba(255,255,255,0.9) !important;
+  box-shadow: 0 8px 32px rgba(26, 32, 44,0.1), inset 0 1px 0 rgba(255,255,255,0.9) !important;
   border-color: var(--blue) !important;
 }
 
@@ -2524,7 +2524,7 @@ select.booking-field__input {
   height: 52px;
   border-radius: 14px;
   background: var(--blue-light, #e6f4f1);
-  color: var(--blue, #0D8B7D);
+  color: var(--blue, #4a5568);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2534,9 +2534,9 @@ select.booking-field__input {
 
 .why-hn-card:hover .why-hn-card__icon {
   transform: scale(1.15);
-  background: var(--blue, #0D8B7D);
+  background: var(--blue, #4a5568);
   color: #fff;
-  box-shadow: 0 6px 20px rgba(13,139,125,0.3);
+  box-shadow: 0 6px 20px rgba(74,85,104,0.3);
 }
 
 .why-hn-card__title {

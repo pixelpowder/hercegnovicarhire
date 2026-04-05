@@ -10,11 +10,11 @@
 
 :root {
   color-scheme: light only;
-  --blue: #C49B2A;
-  --blue-dark: #A68324;
-  --blue-light: #FBF5E5;
-  --navy: #3D3010;
-  --navy-80: rgba(61, 48, 16, 0.8);
+  --blue: #4a5568;
+  --blue-dark: #2d3748;
+  --blue-light: #f7fafc;
+  --navy: #1a202c;
+  --navy-80: rgba(26, 32, 44, 0.8);
   --gray-50: #f8f9fa;
   --gray-100: #f1f3f5;
   --gray-200: #e9ecef;
