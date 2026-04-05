@@ -9,7 +9,7 @@ export default function CookiePolicy() {
       title={t("cookie-policy.title")}
       subtitle={t("cookie-policy.subtitle")}
       description={t("cookie-policy.seoDesc")}
-      image="/img/pexels-2437291.jpg"
+      image="/img/herceg-novi-old-town.webp"
     >
       <p><strong>Last updated:</strong> April 2026</p>
 
