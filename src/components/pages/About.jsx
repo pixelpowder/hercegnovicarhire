@@ -11,7 +11,7 @@ export default function About() {
       description={t("about.seoDesc")}
       image="/img/herceg-novi-riviera.webp"
     >
-      <img src="/img/herceg-novi-old-town.webp" alt="Herceg Novi Old Town" loading="lazy" />
+      <img src="/img/herceg-novi-old-town.webp" alt="Herceg Novi botanical gardens and fortress" loading="lazy" />
       <h2>{t('aboutBody.h1')}</h2>
       <p>{t('aboutBody.p1')}</p>
 

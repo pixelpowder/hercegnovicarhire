@@ -5,7 +5,7 @@ export default function Perast() {
   const { t } = useTranslation();
   return (
     <ContentPage title={t("perast.title")} subtitle={t("perast.subtitle")} description={t("perast.seoDesc")} image="/img/perast-nearby.webp">
-      <img src="/img/savina-monastery.webp" alt="Perast and the islands" loading="lazy" />
+      <img src="/img/savina-monastery.webp" alt="Perast baroque waterfront and bay islands" loading="lazy" />
       <h2>{t('perastBody.h1')}</h2>
       <p>{t('perastBody.p1')}</p>
       <p>{t('perastBody.p2')}</p>

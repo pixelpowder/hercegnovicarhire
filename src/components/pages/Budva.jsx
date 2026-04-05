@@ -5,7 +5,7 @@ export default function Budva() {
   const { t } = useTranslation();
   return (
     <ContentPage title={t("budva.title")} subtitle={t("budva.subtitle")} description={t("budva.seoDesc")} image="/img/herceg-novi-riviera.webp">
-      <img src="/img/coastal-drive.webp" alt="Budva Old Town" loading="lazy" />
+      <img src="/img/coastal-drive.webp" alt="Budva Riviera coastline" loading="lazy" />
       <h2>{t('budvaBody.h1')}</h2>
       <p>{t('budvaBody.p1')}</p>
       <p>{t('budvaBody.p2')}</p>

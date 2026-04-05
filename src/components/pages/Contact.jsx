@@ -18,7 +18,7 @@ export default function Contact() {
               Contact Us
             </h1>
             <p style={{ fontSize: '16px', color: 'var(--gray-600)', marginBottom: '40px', lineHeight: 1.6 }}>
-              Have a question about renting a car in Herceg Novi? Get in touch and we'll help you find the perfect vehicle for your trip.
+              Planning a spa retreat in Igalo, a Dubrovnik day trip, or a full Boka Bay road tour? Get in touch and we will match you with the right car for your riviera itinerary.
             </p>
 
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '20px', marginBottom: '40px' }}>

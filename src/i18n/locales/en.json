@@ -12,7 +12,7 @@
     "perDay": "per day"
   },
   "hero": {
-    "headline": "Herceg Novi Car Hire — Boka Bay Gateway",
+    "headline": "Herceg Novi Car Hire — City of Sun & Gardens",
     "badges": {
       "freeCancellation": "Free Cancellation",
       "fullInsurance": "Full Insurance Included",
@@ -44,14 +44,14 @@
   },
   "howItWorks": {
     "label": "How It Works",
-    "title": "On the Road in 3 Steps",
-    "subtitle": "Simple booking. Instant confirmation. No queues at the airport.",
+    "title": "From Arrivals to the Riviera in 3 Steps",
+    "subtitle": "Effortless booking. Instant confirmation. More time among the mimosa trees.",
     "step1Title": "Choose Your Location",
-    "step1Desc": "Pick up in Herceg Novi centre, Igalo, or at Tivat Airport — just 35km away.",
+    "step1Desc": "Collect in Herceg Novi centre, the Igalo spa quarter, or at Tivat Airport — just 35 km along the bay.",
     "step2Title": "Pick Your Car",
-    "step2Desc": "Browse our fleet from economy runabouts to premium SUVs. Filter by size, transmission, or budget.",
-    "step3Title": "Drive Boka Bay & Beyond",
-    "step3Desc": "Your car is ready. Explore Boka Bay, cross into Croatia, or head south along the Adriatic coast."
+    "step2Desc": "Browse our fleet from nimble city cars to spacious SUVs. Filter by size, gearbox, or budget.",
+    "step3Title": "Discover the Riviera & Beyond",
+    "step3Desc": "Your car awaits. Follow the scent of citrus along the promenade road, cross into Croatia for a Dubrovnik afternoon, or wind through the bay to Kotor."
   },
   "fleet": {
     "label": "Our Fleet",
@@ -63,18 +63,18 @@
   },
   "destinations": {
     "label": "Top Destinations",
-    "title": "Explore from Herceg Novi",
-    "subtitle": "From the fortress town to Dubrovnik, Boka Bay, and the Adriatic coast — each destination a short drive away."
+    "title": "Explore from the City of Sun",
+    "subtitle": "From botanical gardens and therapeutic spas to Dubrovnik's walls and Kotor's medieval heart — each destination is a scenic drive away."
   },
   "features": {
     "label": "Why Choose Us",
-    "title": "Built for Travellers",
-    "subtitle": "Everything you need for a stress-free car rental in Herceg Novi."
+    "title": "Crafted for Wellness Travellers",
+    "subtitle": "Everything you need for a relaxed, sun-drenched rental experience in Herceg Novi."
   },
   "reviews": {
     "label": "Reviews",
-    "title": "Loved by Travellers",
-    "subtitle": "Real experiences from travellers renting in Herceg Novi and the Boka Bay area."
+    "title": "Loved by Visitors",
+    "subtitle": "Real stories from travellers who explored the Herceg Novi Riviera by car."
   },
   "faq": {
     "label": "FAQ",
@@ -82,24 +82,24 @@
     "subtitle": "Everything you need to know before you book."
   },
   "cta": {
-    "title": "Ready to Explore from Herceg Novi?",
-    "subtitle": "Book in minutes. Pick up in Herceg Novi or at the airport. Drive to Dubrovnik, Boka Bay, and the entire coast.",
+    "title": "Ready to Explore the Botanical Riviera?",
+    "subtitle": "Book in minutes. Collect in Herceg Novi or at the airport. Wander from spa gardens to Dubrovnik's limestone walls — all at your own pace.",
     "browseFleet": "Browse Fleet"
   },
   "sidebar": {
     "bookTitle": "Book Your Car",
-    "bookText": "Search real-time availability and prices in Herceg Novi and across Montenegro.",
+    "bookText": "Search real-time availability and prices in Herceg Novi, Igalo, and across Montenegro.",
     "helpTitle": "Need Help?",
     "helpText": "Our team is available via WhatsApp, Viber, or phone.",
     "popularDest": "Popular Destinations"
   },
   "book": {
     "title": "Find Your Car",
-    "seoTitle": "Book — Bay Entrance Fleet",
-    "seoDesc": "Cross-border-ready cars at the mouth of Boka Bay. Search real-time prices, confirm instantly, cancel free. Dubrovnik day trips included in every rental."
+    "seoTitle": "Book — Botanical Riviera Fleet",
+    "seoDesc": "Wellness-ready cars at Montenegro's sunniest gateway. Search real-time prices, confirm instantly, cancel free. Dubrovnik day trips and Igalo spa runs included in every rental."
   },
   "footer": {
-    "brandDesc": "Car hire in Herceg Novi, gateway to Boka Bay. Airport pickups, full insurance, and no hidden fees.",
+    "brandDesc": "Car hire in Herceg Novi — the City of Sun at the entrance to Boka Bay. Spa quarter pickups, full insurance, and no hidden fees.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "locations": "Locations",
@@ -117,118 +117,67 @@
   },
   "notFound": {
     "code": "404",
-    "title": "Wrong Turn",
-    "text": "Looks like you've taken a detour. This road doesn't lead anywhere — but Montenegro's best routes are just a click away.",
+    "title": "Lost in the Gardens",
+    "text": "You've wandered off the path — but the fragrant lanes of Herceg Novi are just a click away.",
     "backHome": "Back to Home",
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Where Croatia meets Montenegro at the bay entrance. Cars from \u20AC13/day in Herceg Novi \u2014 Dubrovnik 30 km, Kotor 45 min, Verige ferry shortcut to Tivat."
+    "seoDesc": "Herceg Novi car hire from €13/day in Montenegro's City of Sun. Igalo spa quarter, botanical gardens, Dubrovnik 30 km, Verige ferry shortcut to Tivat."
   },
   "about": {
     "title": "About Us",
-    "subtitle": "Helping travellers explore Herceg Novi and Boka Bay since 2007.",
-    "seoDesc": "Boka Bay entrance specialists and Dubrovnik corridor experts. We know every bay road bend, every ferry schedule, and every Croatian border queue.",
-    "heading1": "Herceg Novi Car Hire",
-    "p1": "Since 2007, Herceg Novi Car Hire has been connecting travellers with reliable, affordable rental cars across Montenegro. What started as a simple idea — making it easier for visitors to explore this stunning corner of the Adriatic — has grown into one of the country's most trusted car rental services.",
-    "heading2": "Why We Started",
-    "p2": "Montenegro is a country best experienced at your own pace. The winding coastal roads, hidden mountain villages, and UNESCO-listed towns are difficult to reach by public transport. We saw an opportunity to give travellers the freedom to discover Montenegro on their own terms — no tour bus schedules, no missed viewpoints, no compromises.",
-    "heading3": "What We Offer",
-    "p3a": "We provide car rental services throughout",
-    "p3Link1": "Montenegro",
-    "p3b": ", with pickup and dropoff at",
-    "p3Link2": "Tivat Airport",
-    "p3c": ",",
-    "p3Link3": "Podgorica Airport",
-    "p3d": ", and locations across the coast and interior.",
-    "promiseTitle": "Our Promise",
-    "promise1": "Full insurance with zero excess options available",
-    "promise2": "Airport meet-and-greet — we bring the car to you at arrivals",
-    "promise3": "No hidden fees — the price you see is the price you pay",
-    "promise4": "Cross-border travel permitted to Croatia, Bosnia, Albania, Serbia, and Kosovo",
-    "promise5": "Free cancellation on most bookings",
-    "promise6": "24/7 roadside assistance throughout your trip",
-    "localTitle": "Local Knowledge",
-    "localText": "Based in Montenegro, we know the roads, the best routes, and the hidden gems that guidebooks miss. Whether you're driving from",
-    "localLink1": "Tivat Airport",
-    "localMid": "to",
-    "localLink2": "Kotor's",
-    "localMid2": "medieval old town, taking the scenic route through the Bay of Kotor to",
-    "localLink3": "Perast",
-    "localEnd": ", or heading inland to Durmitor National Park, we can help you plan the perfect road trip.",
-    "contactTitle": "Get in Touch",
-    "contactText": "Have a question about renting a car in Montenegro? We're available via phone, WhatsApp, and Viber. Search our fleet online and book in minutes — or reach out and we'll help you find the perfect car for your trip."
+    "subtitle": "Wellness tourism meets Dubrovnik corridor expertise — rooted in the City of Sun since 2007.",
+    "seoDesc": "Herceg Novi wellness and Dubrovnik corridor specialists. We know every garden path, every spa quarter lane, and every Croatian border shortcut."
   },
   "kotor": {
     "title": "Car Hire in Kotor",
-    "subtitle": "Explore Montenegro's UNESCO jewel at your own pace.",
-    "seoDesc": "45 min from Herceg Novi to Kotor through one of Europe's most dramatic bay roads. Hug the waterline past Risan and Perast before reaching the medieval walls.",
-    "heading1": "Kotor — UNESCO World Heritage Site",
-    "p1": "Kotor is one of Montenegro's most stunning seaside towns, offering terrific beaches, historical Old Town charm, and medieval walls housing art galleries, cafes, and excellent restaurants. As a UNESCO World Heritage Site, the town's landmarks are concentrated in the beautifully preserved Old Town.",
-    "p2a": "Renting a car in Kotor",
-    "p2b": "gives you the freedom to explore local attractions and nearby Montenegrin towns and natural areas at your own pace. Parking availability varies seasonally, with summer tourism creating scarcity in the centre — but there are larger car parks on the approach roads.",
-    "landmarksTitle": "Landmarks",
-    "stJohnTitle": "St. John Fortress",
-    "stJohnText": "An imposing structure that historically protected the city from pirate attacks. Notable features include the Contarini Tower and the Our Lady of Health Church, which offers breathtaking views over the Old Town and the Bay of Kotor.",
-    "cathedralTitle": "St. Tryphon Cathedral",
-    "cathedralText": "Built in 809 AD and reconstructed in 1124, this cathedral contains remarkable Byzantine architecture and art reflecting the region's rich history.",
-    "dayTripsTitle": "Day Trips from Kotor",
-    "ladyOfRocksTitle": "Church of Our Lady of the Rocks, Perast",
-    "ladyOfRocksText1": "Located in nearby",
-    "ladyOfRocksLink": "Perast",
-    "ladyOfRocksText2": ", this church sits on a man-made island in the Bay of Kotor. Fishermen have dropped rocks there annually since 1452, gradually growing the island. Ferry access costs around 1 Euro; private boats cost about 5 Euros. The drive from Kotor takes under 30 minutes via the E65/E80 North.",
-    "cetinjeTitle": "Cetinje Monastery",
-    "cetinjeText": "Built in 1701, the monastery houses the hand of John the Baptist. It features ornate decoration and orthodox art. The drive from Kotor takes approximately one hour through scenic mountain roads.",
-    "royalCourtTitle": "Royal Court in Cetinje",
-    "royalCourtText": "Montenegro's royal palace from 1871, displaying art, artefacts, and photographs from the country's royal history. Located next to the monastery in the former royal capital.",
-    "routeDifficulty": "Moderate — narrow streets in Old Town, standard roads approaching",
-    "routeVehicle": "Compact car (easier parking in narrow streets)",
-    "routeParking": "Limited in Old Town. Use the main car parks on approach roads (€1-2/hour)",
-    "routeDistances": "10 minutes · From Budva: 30 minutes"
+    "subtitle": "A 45-minute bay drive from the mimosa groves to medieval ramparts.",
+    "seoDesc": "45 min from Herceg Novi to Kotor along one of Europe's most dramatic bay roads. Trade botanical gardens for fortress walls and candlelit cathedral squares."
   },
   "tivat-airport": {
     "title": "Tivat Airport Car Hire",
-    "subtitle": "Collect your rental car at arrivals — we meet you at the gate.",
+    "subtitle": "Collect your car at arrivals — the Herceg Novi Riviera is 35 minutes away.",
     "seoDesc": "Tivat Airport is 35 min from Herceg Novi via the bay road, or 20 min using the Verige ferry shortcut. We meet every arrival with your car ready."
   },
   "budva": {
     "title": "Car Hire in Budva",
-    "subtitle": "Montenegro's riviera — beaches, nightlife, and old town charm.",
-    "seoDesc": "1 hr south from Herceg Novi to Budva's beaches and nightlife. Swap fortress gardens for sandy riviera \u2014 the contrast makes the drive worth it."
+    "subtitle": "Sandy beaches and nightlife — a sunlit hour south of the spa gardens.",
+    "seoDesc": "1 hr south from Herceg Novi's spa quarter to Budva's sandy riviera and nightlife. Swap mimosa groves for beach bars — the contrast makes the drive unforgettable."
   },
   "perast": {
     "title": "Car Hire in Perast",
-    "subtitle": "A baroque gem on the Bay of Kotor.",
+    "subtitle": "Baroque palazzos reflected in still bay water — 30 minutes from Herceg Novi.",
     "seoDesc": "30 min along the bay from Herceg Novi to Perast's baroque palazzos. Park on the waterfront and catch a boat to Our Lady of the Rocks island."
   },
   "podgorica": {
     "title": "Car Hire in Podgorica",
-    "subtitle": "Montenegro's capital — culture, rivers, and modern charm.",
-    "seoDesc": "Podgorica is 2 hrs inland from Herceg Novi. Pick up a car in the capital for Lake Skadar, Ostrog Monastery, or a Durmitor mountain expedition."
+    "subtitle": "Montenegro's capital — rivers, galleries, and the gateway to the interior.",
+    "seoDesc": "Podgorica is 2 hrs inland from Herceg Novi. Collect a car in the capital for Lake Skadar, Ostrog Monastery, or Durmitor's alpine trails."
   },
   "podgorica-airport": {
     "title": "Podgorica Airport Car Hire",
     "subtitle": "Montenegro's main international gateway.",
-    "seoDesc": "Podgorica Airport (TGD) is Montenegro's budget-flight hub. Collect at arrivals and drive 2 hrs west to Herceg Novi, or stop at Lake Skadar on the way."
+    "seoDesc": "Podgorica Airport (TGD) is Montenegro's budget-flight hub. Collect at arrivals and drive 2 hrs west through the mountains to the Herceg Novi Riviera."
   },
   "dubrovnik-airport": {
     "title": "Dubrovnik Airport Car Hire",
-    "subtitle": "Fly into Croatia, drive into Montenegro.",
-    "seoDesc": "Dubrovnik Airport to Herceg Novi is just 30 km \u2014 the closest Montenegrin town to Croatia. Cross at Debeli Brijeg, green card and insurance included."
+    "subtitle": "Fly into Croatia, drive into Montenegro's botanical coast.",
+    "seoDesc": "Dubrovnik Airport to Herceg Novi is just 30 km — the closest Montenegrin town to Croatia. Cross at Debeli Brijeg, green card and insurance included."
   },
   "tivat": {
     "title": "Car Hire in Tivat",
-    "subtitle": "Montenegro's marina town on the Bay of Kotor.",
-    "seoDesc": "Tivat and Porto Montenegro are 30 min from Herceg Novi via the Verige ferry. Cars from \u20AC13/day with full insurance and free cancellation."
+    "subtitle": "The marina town across the bay — reached by the Verige ferry shortcut.",
+    "seoDesc": "Tivat and Porto Montenegro are 30 min from Herceg Novi via the Verige ferry. Cars from €13/day with full insurance and free cancellation."
   },
   "montenegro": {
     "title": "Bay Road Driving & Verige Ferry Guide",
-    "subtitle": "Navigating Boka Bay's narrow lanes, ferry crossings, and Croatian border.",
-    "seoDesc": "Bay road driving tips, Verige ferry schedule and cost, narrow lane etiquette, and what to expect at the Debeli Brijeg Croatian border crossing."
+    "subtitle": "Navigating Boka Bay's garden-lined lanes, ferry crossings, and the Croatian border.",
+    "seoDesc": "Bay road driving tips from Herceg Novi, Verige ferry schedule and cost, narrow lane etiquette, and what to expect at the Debeli Brijeg border crossing."
   },
   "border-crossing": {
     "title": "Debeli Brijeg & Croatia Border Guide",
-    "subtitle": "Herceg Novi to Dubrovnik \u2014 the busiest border on the Adriatic.",
+    "subtitle": "Herceg Novi to Dubrovnik — 30 km through the busiest Adriatic crossing.",
     "seoDesc": "Debeli Brijeg is Montenegro's busiest Croatia crossing. Peak summer queues, green card docs, and the Neum corridor shortcut to Dubrovnik explained."
   },
   "privacy": {
@@ -249,15 +198,15 @@
   "featureCards": {
     "airportPickup": {
       "title": "Airport Pickup",
-      "desc": "Collect your car at Tivat Airport or have it delivered to Herceg Novi. No shuttle, no waiting."
+      "desc": "Collect your car at Tivat Airport or have it delivered to the Igalo spa quarter. No shuttle, no waiting."
     },
     "fullInsurance": {
       "title": "Full Insurance",
-      "desc": "Comprehensive coverage with zero excess option. Drive with complete peace of mind."
+      "desc": "Comprehensive coverage with zero excess option. Drive the winding bay roads with complete peace of mind."
     },
     "support": {
       "title": "24/7 Support",
-      "desc": "Roadside assistance and customer service available around the clock, every day."
+      "desc": "Roadside assistance and customer service around the clock — from Herceg Novi's promenade to the Croatian border."
     },
     "noHiddenFees": {
       "title": "No Hidden Fees",
@@ -268,19 +217,19 @@
       "desc": "Plans change. Cancel up to 24 hours before pickup for a full refund."
     },
     "crossBorder": {
-      "title": "Cross-Border",
-      "desc": "Drive across the Croatian border to Dubrovnik and beyond. Cross-border travel permitted."
+      "title": "Cross-Border Ready",
+      "desc": "Drive across the Debeli Brijeg crossing to Dubrovnik and beyond. Green card and paperwork arranged."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Picked up our car in Herceg Novi and drove the Dubrovnik corridor the same afternoon. Paperwork for Croatia was ready. Brilliant service."
+      "text": "Collected our car near the Igalo spa and spent the afternoon in Dubrovnik. The border paperwork was sorted before we arrived. Seamless."
     },
     "1": {
-      "text": "We stayed in Igalo for the spa and used the rental to explore Kotor, Perast, and Budva. The golden coastline is stunning from a car."
+      "text": "We came for the Igalo mud treatments and used the rental to explore Kotor and Perast. Driving along the bay with the mountains rising out of the water was the highlight of our trip."
     },
     "2": {
-      "text": "Herceg Novi was our base for two weeks. The Jeep handled the bay road to Tivat perfectly and we crossed into Croatia three times."
+      "text": "Herceg Novi was our base for two weeks. We walked the botanical gardens in the morning and drove to a different beach every afternoon. The Verige ferry shortcut to Tivat saved us an hour each time."
     }
   },
   "faqItems": {
@@ -337,7 +286,7 @@
     "tivat-airport": {
       "name": "Tivat Airport",
       "tag": "35 min Drive",
-      "desc": "Closest airport to Herceg Novi via the bay road."
+      "desc": "Closest airport to Herceg Novi — bay road or Verige ferry."
     },
     "kotor": {
       "name": "Kotor",
@@ -347,253 +296,253 @@
     "dubrovnik-airport": {
       "name": "Dubrovnik Airport",
       "tag": "Cross-Border",
-      "desc": "Just 30km away across the Croatian border."
+      "desc": "Just 30 km across the Debeli Brijeg border."
     },
     "perast": {
       "name": "Perast",
-      "tag": "Hidden Gem",
-      "desc": "Baroque village on the bay, 30 minutes away."
+      "tag": "Baroque Gem",
+      "desc": "Baroque village on still bay water, 30 minutes away."
     },
     "budva": {
       "name": "Budva",
-      "tag": "Beach Town",
-      "desc": "Riviera beaches and nightlife, 1 hour south."
+      "tag": "Beach Riviera",
+      "desc": "Sandy beaches and nightlife, 1 hour south."
     },
     "tivat": {
       "name": "Lustica Peninsula",
       "tag": "Beaches",
-      "desc": "Secluded beaches and olive groves across the bay."
+      "desc": "Secluded coves and olive groves across the bay narrows."
     },
     "podgorica": {
       "name": "Risan",
       "tag": "Roman Mosaics",
-      "desc": "Ancient town with Roman mosaics, 20 min drive."
+      "desc": "Ancient mosaics and bay views, 20 min drive."
     }
   },
   "aboutBody": {
-    "h1": "Herceg Novi Car Hire",
-    "p1": "Herceg Novi Car Hire connects travellers with reliable, affordable rental cars in Herceg Novi and across Montenegro. Located at the entrance to the Bay of Kotor and just 30km from Dubrovnik, Herceg Novi is the perfect base for exploring the Adriatic coast by car.",
-    "h2": "Why Herceg Novi",
-    "p2": "Herceg Novi sits at the gateway to Boka Bay, where Montenegro meets Croatia. The fortress town, Igalo spa resort, and 25km riviera with 20+ beaches are best explored with your own wheels. From here you can reach Dubrovnik in 30 minutes, Kotor in 45 minutes, and Budva in an hour — all along some of the most scenic roads in Europe.",
+    "h1": "Herceg Novi Car Hire — Rooted in the City of Sun",
+    "p1": "Herceg Novi is not just a starting point — it is a destination in its own right. Known locally as the City of Sun and the Botanical Garden of Montenegro, this fortress town at the entrance to Boka Bay has drawn wellness seekers and garden lovers for more than a century. We have been helping visitors navigate its lush riviera and the Dubrovnik corridor since 2007.",
+    "h2": "A Wellness Gateway",
+    "p2": "The story of Herceg Novi is inseparable from Igalo, the spa quarter that stretches west along the bay shore. The Igalo Institute, founded in 1949, pioneered therapeutic mud treatments, mineral baths, and hydrotherapy programmes that still attract visitors from across Europe. Our car hire service grew from a simple observation: guests staying for spa treatments wanted the freedom to explore the coast between sessions — to drive to Dubrovnik for lunch, catch the Verige ferry to Tivat, or climb the stairways to Savina Monastery's rose garden.",
     "h3": "What We Offer",
-    "p3": "We provide car rental services with pickup and dropoff in Herceg Novi centre, Igalo, Tivat Airport, and locations across the coast. Our fleet ranges from compact city cars to spacious SUVs, all fully insured with no hidden fees.",
+    "p3": "We provide rental cars with pickup and delivery across the Herceg Novi Riviera — from the Igalo spa quarter and the town centre to Tivat Airport, 35 km along the bay. Our fleet ranges from nimble city cars that handle the narrow staircase streets to spacious SUVs for the mountain roads inland. Every vehicle is fully insured with no hidden fees.",
     "promiseTitle": "Our Promise",
     "promise1": "Full insurance with zero excess options available",
-    "promise2": "Delivery to Herceg Novi or airport meet-and-greet at Tivat",
+    "promise2": "Delivery to Igalo, Herceg Novi centre, or airport meet-and-greet at Tivat",
     "promise3": "No hidden fees — the price you see is the price you pay",
     "promise4": "Cross-border travel permitted to Croatia, Bosnia, Albania, Serbia, and Kosovo",
     "promise5": "Free cancellation on most bookings",
-    "promise6": "24/7 roadside assistance throughout your trip",
-    "h4": "Local Knowledge",
-    "p4": "Based in Herceg Novi, we know the roads, the best routes, and the hidden gems that guidebooks miss. Whether you're driving to Kotor's medieval old town, crossing the border to Dubrovnik, exploring Savina Monastery, or heading to Igalo's therapeutic spas, we can help you plan the perfect road trip.",
+    "promise6": "24/7 roadside assistance from the promenade to the border",
+    "h4": "Local Knowledge — Gardens, Fortresses & Shortcuts",
+    "p4": "We know which stairway leads to Kanli Kula for the sunset, which season the mimosa trees blanket the hillside in gold, and exactly when the Debeli Brijeg border queue thins out for a smooth Dubrovnik crossing. We can point you to the boat taxi for Žanjic beach, the hidden path to Forte Mare overlooking the harbour, and the best seafood along the Šetalište promenade. Whether your itinerary centres on Igalo's therapeutic mud, a Savina Monastery morning, or a full Boka Bay road trip, we will help you plan every turn.",
     "h5": "Get in Touch",
-    "p5": "Have a question about renting a car in Herceg Novi? We're available via phone, WhatsApp, and Viber. Search our fleet online and book in minutes — or reach out and we'll help you find the perfect car for your trip."
+    "p5": "Questions about renting a car in Herceg Novi? Curious about the Verige ferry shortcut or the best time to cross into Croatia? We are available via phone, WhatsApp, and Viber. Search our fleet online and book in minutes — or reach out and let us help you map the perfect riviera drive."
   },
   "kotorBody": {
-    "h1": "Kotor — UNESCO World Heritage Site",
-    "p1": "Kotor is one of Montenegro's most stunning seaside towns, offering terrific beaches, historical Old Town charm, and medieval walls housing art galleries, cafes, and excellent restaurants. As a UNESCO World Heritage Site, the town's landmarks are concentrated in the beautifully preserved Old Town.",
-    "p2": "Renting a car in Kotor gives you the freedom to explore local attractions and nearby Montenegrin towns and natural areas at your own pace. Parking availability varies seasonally, with summer tourism creating scarcity in the centre — but there are larger car parks on the approach roads.",
+    "h1": "Kotor — From Mimosa Groves to Medieval Walls",
+    "p1": "The 45-minute drive from Herceg Novi to Kotor is one of Europe's great coastal journeys. The road hugs the waterline of Boka Bay, passing through Risan's ancient mosaic quarter and the baroque stillness of Perast before the medieval walls of Kotor appear around the final bend. After mornings spent among the botanical gardens and spa terraces of Herceg Novi, Kotor provides a striking counterpoint — all stone ramparts, candlelit churches, and narrow lanes climbing toward St. John's Fortress.",
+    "p2": "A rental car from Herceg Novi gives you the freedom to linger in Perast on the way, stop at a waterside restaurant in Risan, and arrive in Kotor on your own schedule. Parking can be scarce in summer near the Old Town gates, but larger car parks on the approach roads handle the overflow well.",
     "landmarksTitle": "Landmarks",
     "stJohnTitle": "St. John Fortress",
-    "stJohnText": "An imposing structure that historically protected the city from pirate attacks. Notable features include the Contarini Tower and the Our Lady of Health Church, which offers breathtaking views over the Old Town and the Bay of Kotor.",
+    "stJohnText": "The climb to St. John's Fortress follows 1,350 steps up the mountainside behind the Old Town. The panoramic view from the top — the entire bay spread below, cruise ships reduced to white specks, the Adriatic shimmering beyond the mouth — rewards every step. The Contarini Tower and Our Lady of Health Church mark the ascent.",
     "cathedralTitle": "St. Tryphon Cathedral",
-    "cathedralText": "Built in 809 AD and reconstructed in 1124, this cathedral contains remarkable Byzantine architecture and art reflecting the region's rich history.",
+    "cathedralText": "Built in 809 AD and reconstructed after the 1124 earthquake, St. Tryphon Cathedral anchors Kotor's main square. Its twin bell towers and Romanesque facade house Byzantine frescoes, gold and silver reliquaries, and a quiet interior that contrasts sharply with the busy piazza outside.",
     "dayTripsTitle": "Day Trips from Kotor",
-    "perastTrip": "Located in nearby Perast, this church sits on a man-made island in the Bay of Kotor. Fishermen have dropped rocks there annually since 1452, gradually growing the island. Ferry access costs around 1 Euro; private boats cost about 5 Euros. The drive from Kotor takes under 30 minutes via the E65/E80 North.",
-    "cetinjeTrip": "Built in 1701, the monastery houses the hand of John the Baptist. It features ornate decoration and orthodox art. The drive from Kotor takes approximately one hour through scenic mountain roads.",
-    "royalCourtText": "Montenegro's royal palace from 1871, displaying art, artefacts, and photographs from the country's royal history. Located next to the monastery in the former royal capital."
+    "perastTrip": "Perast sits 20 minutes back along the bay road toward Herceg Novi. The baroque village faces two tiny islands — St. George, with its cypress-shaded Benedictine monastery, and Our Lady of the Rocks, a man-made island where sailors have tossed rocks since 1452. A water taxi from the harbour costs a few euros.",
+    "cetinjeTrip": "The old royal capital of Cetinje lies an hour inland through dramatic mountain switchbacks. The monastery houses sacred relics, while the former Royal Court preserves the artefacts and photographs of Montenegro's brief kingdom. The drive itself, climbing from sea level to the Lovćen plateau, is as memorable as the destination.",
+    "royalCourtText": "Montenegro's royal palace from 1871, now a museum displaying art, artefacts, and photographs from the nation's royal history. Nestled beside the monastery in the quiet streets of the former capital."
   },
   "budvaBody": {
-    "h1": "Budva — The Heart of the Montenegrin Riviera",
-    "p1": "Budva is Montenegro's most popular beach destination, attracting visitors from across Europe to its stunning coastline, vibrant nightlife, and beautifully preserved medieval Old Town. With a rental car, the entire Budva Riviera and beyond is at your fingertips.",
-    "p2": "The town sits roughly 20 minutes south of Tivat Airport, making it one of the easiest coastal destinations to reach after landing. Budva combines 2,500 years of history with a thoroughly modern holiday atmosphere — ancient city walls by day, bustling beach bars by night.",
+    "h1": "Budva — Sandy Riviera Beyond the Spa Gardens",
+    "p1": "An hour south of Herceg Novi's botanical terraces, the coastline transforms. The sheltered bay gives way to open Adriatic, and Budva appears — Montenegro's liveliest beach town, where 2,500 years of history meet a thoroughly modern summer scene. The contrast with Herceg Novi's meditative spa atmosphere is part of the appeal: morning mud treatment in Igalo, afternoon on Jaz Beach, evening in a Budva Old Town restaurant.",
+    "p2": "The drive from Herceg Novi takes you along the bay road to Kotor, through the tunnel at Trojica, and down the southern coast to Budva. With a rental car you can explore the entire riviera at your own rhythm, stopping at Sveti Stefan for photographs and Bečići for swimming.",
     "beachesTitle": "Beaches",
-    "beachesIntro": "The Budva Riviera stretches for 21 kilometres, offering some of the finest beaches on the Adriatic coast:",
-    "mogren": "Two connected pebble beaches reached through a tunnel cut into the cliffs, just minutes from the Old Town",
-    "jaz": "A large sandy beach popular with locals and visitors alike, host to music festivals in summer",
-    "svetiStefan": "The iconic islet-hotel visible from the coastal road, with a public beach on one side",
-    "becici": "A long stretch of fine sand that was once voted the most beautiful beach in Europe",
+    "beachesIntro": "The Budva Riviera stretches for 21 kilometres, offering sand and pebble beaches along the open Adriatic:",
+    "mogren": "Two connected coves reached through a cliff tunnel, minutes from the Old Town walls — intimate and sheltered",
+    "jaz": "A wide sandy bay popular with locals and summer festival crowds, backed by green hillsides",
+    "svetiStefan": "The iconic fortified islet visible from the coast road, with a public beach on the mainland side",
+    "becici": "A long stretch of fine sand once voted among Europe's most beautiful beaches — quieter than Budva proper",
     "oldTownTitle": "Old Town",
-    "oldTownText": "Budva's Old Town (Stari Grad) is a compact walled citadel on a small peninsula. Inside the walls you'll find narrow cobblestone streets, Venetian-era architecture, small churches dating back to the 7th century, and a lively mix of restaurants, galleries, and boutiques. The Citadela fortress at the southern tip offers panoramic views of the coast and nearby islands.",
+    "oldTownText": "Budva's Old Town is a compact walled peninsula of cobblestone streets, Venetian architecture, seventh-century churches, and a lively mix of restaurants and galleries. The Citadela fortress at the southern tip frames panoramic views of the coast and the island of Sveti Nikola. After the tranquil gardens of Herceg Novi, the energy of Budva's piazzas feels like stepping into a different country.",
     "dayTripsTitle": "Day Trips from Budva",
-    "svetiStefanTrip": "Just 6 km south, this photogenic fortified island village is now a luxury hotel but the views from the road above are spectacular and free. The beach on the mainland side is open to all.",
-    "kotorTrip": "A 30-minute drive north through a dramatic mountain tunnel brings you to the Bay of Kotor and its UNESCO-listed Old Town.",
-    "lovcenTrip": "Head inland for mountain scenery and the Njegos Mausoleum, perched at 1,657 metres with views across four countries on a clear day. The winding road from the coast is an experience in itself.",
+    "svetiStefanTrip": "Just 6 km south, this photogenic fortified island village is now a luxury hotel, but the views from the road above are spectacular and free. The mainland beach is open to all visitors.",
+    "kotorTrip": "A 30-minute drive north through the Trojica tunnel brings you to Kotor and its UNESCO-listed medieval quarter — or continue along the bay road back toward Herceg Novi for the full circuit.",
+    "lovcenTrip": "Head inland for the Lovćen mountain plateau and the Njegoš Mausoleum at 1,657 metres. On a clear day, the views stretch across four countries. The winding ascent from the coast is an experience in itself.",
     "gettingAroundTitle": "Getting Around",
-    "gettingAroundText": "While Budva's Old Town is best explored on foot, a rental car is essential for reaching the best beaches, nearby villages, and inland attractions. Parking is available near the Old Town walls and at several public lots along the main road. In peak summer, arriving early secures the best spots."
+    "gettingAroundText": "While Budva's Old Town rewards walking, a rental car is essential for reaching the riviera beaches, coastal villages, and inland viewpoints. Parking is available near the Old Town walls and at several public lots along the main road. In peak summer, arriving early in the morning guarantees the best spots."
   },
   "perastBody": {
-    "h1": "Perast — Hidden Gem on the Bay",
-    "p1": "The little village of Perast is located just a short drive — less than 20 minutes — from Kotor. Tourists who rent a car for their tour of Montenegro will certainly want to make the drive up the E65/E80 motorway to spend time in this lovely fishing village.",
-    "p2": "Although home to only around 850 people, the long and colourful history of Perast certainly outweighs its small size. From 1420 to 1797, the town belonged to the Republic of Venice and was known for its master shipbuilders and sailors. Perast has many gorgeous reminders of the past and some excellent examples of Baroque architecture.",
+    "h1": "Perast — Baroque Calm on the Bay",
+    "p1": "Perast sits half an hour along the bay from Herceg Novi, where the waterway narrows between steep mountain walls. After the lush gardens and spa terraces of the City of Sun, Perast offers something different — a village of baroque stone palazzos, silent bell towers, and still water reflecting the two tiny islands offshore. The pace here slows to the rhythm of small fishing boats crossing to Our Lady of the Rocks.",
+    "p2": "Under Venetian rule from 1420 to 1797, Perast earned fame for its master shipbuilders and fearless sailors. That maritime heritage is carved into every palazzo facade and preserved in the town museum. With fewer than 850 residents, the village feels like a private gallery — intimate, unhurried, and achingly photogenic.",
     "islandsTitle": "The Islands",
     "stGeorgeTitle": "St. George Island",
-    "stGeorgeText": "A natural island just off the coast in the Bay of Kotor, home to the St. George Benedictine Monastery, built in the 12th century. Small boats from the harbour will take visitors there for a few Euros.",
+    "stGeorgeText": "A natural island just offshore, shaded by a dark grove of cypresses and home to a Benedictine monastery dating from the 12th century. The island is visible from every waterfront cafe in Perast, and small boats from the harbour will carry visitors across for a few euros.",
     "ladyOfRocksTitle": "Our Lady of the Rocks",
-    "ladyOfRocksText": "A man-made island holding the church of the same name. The island was created by sailors from the town throwing rocks and sinking old boats and ships over centuries. Every year this tradition continues, and on July 22nd tourists can watch as locals fill their boats with rocks to help keep the island intact.",
+    "ladyOfRocksText": "This man-made island was created by generations of sailors tossing rocks and sinking old boats into the bay. Every July 22nd, locals fill their vessels with stones and continue the tradition. The church holds thousands of silver votive tablets and a collection of Baroque paintings. A water taxi from the Perast harbour takes five minutes.",
     "historicTitle": "Historic Sites",
-    "historicText": "The town boasts numerous palaces, cathedrals, and several guard towers which once protected the city. For those interested in learning about Perast's history in detail, the Museum of Perast contains many artefacts, archives, paintings, sculptures, and town records. The museum is located in the old Palata Buiovich, which many consider the most beautiful building on the Montenegrin coast.",
+    "historicText": "Perast's waterfront is lined with Renaissance and Baroque palaces — remnants of the merchant families who competed for the grandest facade. The Museum of Perast, housed in the Palata Bujović (widely considered the most beautiful building on the Montenegrin coast), contains archives, naval paintings, and town records spanning centuries of Venetian and Adriatic commerce.",
     "monasteryTitle": "Banja Monastery",
-    "monasteryText": "Located just north of Perast on the road to Risan, the Banja Monastery features many ancient religious pieces from Russian, Greek, and Boka dynasties. To reach the monastery, continue north on the E65/E80 for just a few kilometres."
+    "monasteryText": "A few kilometres north along the bay road toward Risan, the Banja Monastery shelters ancient religious art from Russian, Greek, and Boka traditions. The detour is brief and the setting — nestled into the hillside above the water — is quietly beautiful."
   },
   "tivatBody": {
-    "h1": "Tivat — Marina Town",
-    "p1": "Tivat is one of the newer towns along the Montenegrin coast, built a little over a century ago. The town hosts one of only two public airports in Montenegro — Tivat Airport — making it an incredibly convenient base for visitors arriving by air.",
-    "p2": "This seaside resort has a population of around 13,000. Visitors can enjoy seafront boardwalks, dine at waterfront bistros, and explore shops tucked into narrow alleyways. During peak season, the town balances tranquillity with vibrant tourism activity.",
+    "h1": "Tivat — Marina Glamour Across the Narrows",
+    "p1": "Tivat lies directly across the Verige Strait from Herceg Novi — a 10-minute ferry crossing that feels like stepping between two different worlds. Where Herceg Novi wraps itself in mimosa trees and Ottoman stairways, Tivat gleams with polished marina decks and waterfront cocktail bars. The town hosts one of Montenegro's two commercial airports, making it an incredibly convenient gateway for visitors arriving by air.",
+    "p2": "With around 13,000 residents, Tivat blends small-town Mediterranean ease with the cosmopolitan energy brought by Porto Montenegro. Visitors stroll the seafront boardwalk, browse boutiques in narrow alleyways, and dine at waterside restaurants where fresh Adriatic seafood arrives daily.",
     "beachesTitle": "Beaches",
-    "beachesText": "Tivat boasts 17 beaches spanning 3 kilometres of coastline, recognised among the Mediterranean's finest. Top beaches include:",
-    "beach1": "Plavi Horizanti (Blue Horizons): White sand, crystal clear waters, perfect for swimming and sunbathing",
-    "beach2": "Przno on Sveti Marko Island: An abandoned resort area offering seclusion and pristine waters, ideal for water sports",
+    "beachesText": "Tivat claims 17 beaches along 3 kilometres of coast, recognised among the finest on the inner bay:",
+    "beach1": "Plavi Horizanti (Blue Horizons): White sand and crystal-clear water, ideal for swimming and afternoon sunbathing",
+    "beach2": "Przno on Sveti Marko Island: A secluded former resort with pristine water, perfect for paddleboarding and swimming",
     "portoTitle": "Porto Montenegro",
-    "portoText": "The jewel of Tivat is Porto Montenegro, a luxury yacht marina and waterfront village that has transformed the town into one of the Adriatic's most fashionable destinations. The marina complex features boutiques, restaurants, a pool club, and regular events throughout the summer season.",
+    "portoText": "The centrepiece of modern Tivat is Porto Montenegro — a luxury superyacht marina and waterfront village that has repositioned the town as one of the Adriatic's most fashionable addresses. The complex houses designer boutiques, fine restaurants, a pool club, and a Naval Heritage Collection museum tracing Boka Bay's centuries of seafaring tradition.",
     "culturalTitle": "Cultural Attractions",
     "monasteryTitle": "St. Michael Archangel Monastery",
-    "monasteryText": "10th-century ruins located on the Prevlaka peninsula, with ongoing archaeological work uncovering the site's ancient history.",
+    "monasteryText": "Tenth-century ruins on the Prevlaka peninsula at the mouth of Boka Bay, with ongoing archaeological work uncovering layers of medieval monastic life. The setting, at the very tip of the peninsula with water on three sides, is serene.",
     "churchTitle": "Church of Sveti Antun Padovanski",
-    "churchText": "Built in 1734, this church contains religious paintings and artefacts, with beautiful views over the bay.",
-    "museumText": "Just a 10-minute drive away in Kotor, the Maritime Museum displays Montenegro's rich seafaring heritage and historical learning centres."
+    "churchText": "Built in 1734, this parish church contains religious paintings, gilded woodwork, and offers views across the bay toward the mountains behind Herceg Novi.",
+    "museumText": "Kotor's Maritime Museum, just 10 minutes along the bay road, displays Montenegro's seafaring heritage — model ships, navigational instruments, and portraits of the admirals who once commanded Boka's merchant fleets."
   },
   "tivatAirportBody": {
     "h1": "Car Hire at Tivat Airport (TIV)",
-    "p1": "The small town of Tivat has the only other commercial airport in Montenegro besides Podgorica. The facility has undergone recent modernisation, featuring a new terminal for international departures and domestic arrivals. The airport code is TIV, located just 4 km from the town centre.",
-    "p2": "Like Podgorica, Tivat Airport has more flights during the summer peak season but maintains daily flights to Belgrade year-round. Charter flights operate heavily during the summer months. Due to the unique terrain surrounding the airport, it is well-known as being one of the most challenging airports at which to land.",
+    "p1": "Tivat Airport sits on the inner shore of Boka Bay, just 4 km from Tivat town centre and 35 km from Herceg Novi. For visitors heading to the City of Sun and its spa quarter, this is the closest airport — and the most scenic arrival, with the bay unfolding around every turn of the approach road.",
+    "p2": "Year-round daily flights connect to Belgrade, with charter and seasonal services expanding heavily during the summer months. The airport is renowned among pilots for its challenging approach through the surrounding mountains — and among travellers for the stunning views on descent over the bay.",
     "distancesTitle": "Distances from Tivat Airport",
-    "dist1": "Kotor: approximately 10 minutes",
-    "dist2": "Budva: approximately 20 minutes",
-    "dist3": "Podgorica: 80 km",
-    "dist4": "Bar: 58 km",
+    "dist1": "Herceg Novi: approximately 35 minutes (or 20 min via Verige ferry)",
+    "dist2": "Kotor: approximately 10 minutes",
+    "dist3": "Budva: approximately 20 minutes",
+    "dist4": "Podgorica: 80 km inland",
     "facilitiesTitle": "Airport Facilities",
-    "facilitiesText": "The airport offers cafes, public telephones, souvenir stores, and duty-free shopping. Bus services connect to Herceg Novi and Budva, with taxi service also available outside the terminal.",
-    "whyTitle": "Why Rent at Tivat Airport?",
-    "whyText": "Tivat Airport is the closest airport to Montenegro's most popular coastal destinations. Within minutes of landing, you can be driving along the Bay of Kotor towards the medieval walled town, or heading south to the beaches of Budva. Picking up your car at Tivat means no transfers, no waiting for buses — just straight from the terminal to the open road.",
-    "meetText": "We meet you at the arrivals hall with your name on a sign. Your car is parked right outside. Total time from landing to driving: about 10 minutes."
+    "facilitiesText": "The terminal offers cafes, duty-free shopping, souvenir stores, and taxi ranks outside arrivals. Bus services run to Herceg Novi and Budva, but a rental car gives you the freedom to reach the Igalo spa quarter, the botanical gardens, or the Dubrovnik border on your own schedule.",
+    "whyTitle": "Why Collect at Tivat Airport?",
+    "whyText": "Tivat Airport puts you within minutes of Montenegro's most celebrated coastal destinations. Head north along the bay toward Kotor and Perast, south through the tunnel to Budva's beaches, or west across the Verige ferry to Herceg Novi's garden-draped riviera. No transfers, no bus timetables — just straight from the terminal to the open road.",
+    "meetText": "We meet you at the arrivals hall with your name on a sign. Your car is parked right outside. From landing to driving: about 10 minutes."
   },
   "podgoricaBody": {
-    "h1": "Podgorica — The Capital City",
-    "p1": "Most tourists flying into Montenegro will begin their trip at Podgorica Airport (TGD), located 9 km from the city centre. As both the capital and largest city in Montenegro, Podgorica is home to approximately 170,000 residents and sits uniquely on the banks of six rivers: the Moraca, Ribnica, Zeta, Sitnica, Mareza, and Cijevna.",
-    "p2": "The city's architecture reflects diverse historical influences. Ottoman rule left its mark, while medieval structures stand alongside communist-era functionalist buildings and contemporary glass towers. The Millennium Bridge has become a symbol of the city's modern aesthetic.",
-    "p3": "Podgorica is the cultural capital of the country. Tourists who rush off to the beach towns or mountains without spending time here will certainly miss an important part of Montenegro.",
+    "h1": "Podgorica — The Capital on Six Rivers",
+    "p1": "Most international flights into Montenegro land at Podgorica Airport (TGD), 9 km from the city centre. As the capital and largest city, Podgorica is home to around 170,000 residents and sits at the confluence of six rivers — the Morača, Ribnica, Zeta, Sitnica, Maréza, and Cijevna. The drive west to Herceg Novi takes approximately two hours through dramatic mountain scenery.",
+    "p2": "The city layers Ottoman footprint over medieval stone, communist-era functionalist blocks alongside contemporary glass towers. The Millennium Bridge has become a symbol of Podgorica's modern identity — a sweeping white pylon over the Morača that photographs beautifully at dusk.",
+    "p3": "Podgorica is Montenegro's cultural heart. Visitors who rush straight to the coast without pausing here miss the galleries, the riverside parks, and the warmth of a capital city that moves at its own unhurried pace.",
     "seeTitle": "What to See",
-    "seeText": "Shopping highlights include Italian fabrics, art galleries, and local wines and brandies. Notable attractions include Sat-Kula (the clock tower) from Ottoman times and Duklja, an archaeological site dating back approximately two thousand years.",
+    "seeText": "Browse Italian fabric shops and local wine merchants in the Stara Varoš quarter. Visit Sat-Kula, the Ottoman clock tower, and the archaeological ruins at Duklja — a Roman city dating back two millennia. The Cathedral of the Resurrection of Christ, completed in 2013, is one of the largest Orthodox churches in the Balkans.",
     "dayTripsTitle": "Day Trips from Podgorica",
     "skadarTitle": "Skadar Lake",
-    "skadarText": "Potentially Europe's most beautiful lake, located on the Montenegro-Albania border as a National Park. Home to millions of pelicans, it is the largest lake in the Balkans and a must-visit for nature lovers.",
+    "skadarText": "One of the most beautiful lakes in southern Europe, straddling the Montenegro-Albania border as a National Park. Home to vast colonies of Dalmatian pelicans, the lake is the largest in the Balkans and reachable in 30 minutes from the capital. Boat tours weave through water lily channels past ancient island monasteries.",
     "danilovgradTitle": "Danilovgrad",
-    "danilovgradText": "A scenic river town approximately thirty minutes west of Podgorica, featuring riverside beaches, boat rides, galleries, and the nearby Zdrebaonik monastery.",
-    "zabljak": "An alpine town in the Durmitor mountain region, sitting 1,500 metres above sea level and 170 kilometres from Podgorica. A year-round destination offering skiing in winter and hiking, rafting, and mountain biking in summer."
+    "danilovgradText": "A quiet river town 30 minutes west of Podgorica, offering riverside swimming spots, galleries, and the nearby Zdrebaonik monastery. The Zeta valley setting is peaceful — a welcome contrast to the capital's bustle.",
+    "zabljak": "An alpine town in the Durmitor mountains at 1,500 metres, about 170 km north of Podgorica. Year-round appeal: skiing in winter, hiking the Tara Canyon rim, white-water rafting, and mountain biking through pine forests in summer."
   },
   "podgoricaAirportBody": {
     "h1": "Car Hire at Podgorica Airport (TGD)",
-    "p1": "Although many visitors still choose to fly into neighbouring Croatia's Dubrovnik Airport, each year more flights are opening up to Montenegro's own airports. Podgorica Airport serves as Montenegro's largest public airport and hub for national carriers.",
-    "p2": "A new terminal opened in May 2006, while the old terminal now functions as a museum documenting Montenegro's aviation history. The airport code TGD is a historical reference to the city's former name, Titograd.",
+    "p1": "Podgorica Airport serves as Montenegro's principal gateway, handling the majority of international and budget-carrier flights. Each year more routes open as the country's tourism profile grows — though many visitors still combine a Podgorica arrival with a coastal transfer to the Herceg Novi Riviera.",
+    "p2": "The current terminal opened in 2006. The old terminal building now functions as an aviation history museum — a charming footnote for plane enthusiasts. The airport code TGD is a relic of the city's former name, Titograd.",
     "distancesTitle": "Location & Distances",
-    "distIntro": "The airport is situated 12 kilometres south of Podgorica city centre.",
-    "dist1": "Podgorica centre: 12 km (taxi approximately 10 Euros)",
-    "dist2": "Budva: approximately 40 minutes",
-    "dist3": "Kolasin: 80 km",
-    "dist4": "Zabljak: 170 km",
+    "distIntro": "The airport lies 12 km south of Podgorica city centre.",
+    "dist1": "Podgorica centre: 12 km (taxi approximately €10)",
+    "dist2": "Herceg Novi: approximately 2 hours west",
+    "dist3": "Budva: approximately 40 minutes",
+    "dist4": "Žabljak (Durmitor): 170 km north",
     "flightsTitle": "Flights & Airlines",
-    "flightsText": "The airport handles both international and domestic flights. Daily service connects to Belgrade, with regular flights to Paris, Rome, Frankfurt, Vienna, Budapest, Ljubljana, and Moscow. Seasonal routes include Prague and additional Moscow services.",
+    "flightsText": "Daily service to Belgrade year-round, with regular connections to Paris, Rome, Frankfurt, Vienna, Budapest, and Ljubljana. Seasonal routes expand the network considerably in summer. Budget carriers increasingly serve TGD, making Podgorica an affordable entry point for a Montenegrin road trip.",
     "facilitiesTitle": "Airport Facilities",
-    "facilitiesText": "The terminal features eight departure gates, two arrival gates, 5,500 square metres of floor area, and 25,000 square metres of parking. Amenities include cafes, duty-free shopping, and various services.",
-    "awardText": "Although small, Podgorica Airport is an award-winning facility, having won the ACI Europe award for the best airport under 1 million passengers.",
-    "rentalTitle": "Getting Your Rental Car",
-    "rentalText": "We meet you at the arrivals hall and bring the car to you. No queues, no shuttle buses to off-site lots. Within minutes of clearing customs, you'll be on the road heading to your destination."
+    "facilitiesText": "The terminal offers eight departure gates, two arrival gates, cafes, duty-free shopping, and over 25,000 square metres of parking. Despite its modest size, the airport has won the ACI Europe award for the best airport under one million passengers.",
+    "awardText": "For travellers heading to the coast, the 2-hour drive to Herceg Novi crosses the Montenegrin interior — through the Morača river canyon, past mountain villages, and down to the bay. It is one of the most scenic airport-to-hotel transfers in Europe.",
+    "rentalTitle": "Collecting Your Rental Car",
+    "rentalText": "We meet you at the arrivals hall and bring the car to you. No queues, no off-site shuttle lots. Within minutes of clearing customs, you will be on the road — heading west toward the botanical coast or south to Budva's sandy riviera."
   },
   "dubrovnikAirportBody": {
-    "h1": "Renting a Car at Dubrovnik Airport (DBV)",
-    "p1": "Many tourists who visit Montenegro choose to fly into Dubrovnik Airport and rent a car to drive over into Montenegro. The airport is located just a short two-hour drive from the coastal resorts of Budva, Perast, and Kotor, and is better connected with many airlines that don't yet provide direct service to Montenegro.",
-    "p2": "Since this is such a common route, crossing the border is not a difficult task — provided that visitors have all their rental agreements and travel documents in order.",
-    "p3": "Renting a car for a trip to Montenegro is a great idea. It allows visitors to see this part of the world on their own terms, at their own leisure. Traffic between the countries in this region is common, so border crossings are generally straightforward.",
+    "h1": "Fly into Dubrovnik, Drive to the City of Sun",
+    "p1": "Herceg Novi is the closest Montenegrin town to Dubrovnik Airport — just 30 km and a single border crossing at Debeli Brijeg. For visitors wanting to combine Croatia's most famous walled city with Montenegro's botanical riviera, flying into Dubrovnik and driving south is the most efficient route. The airport receives flights from across Europe, many of which do not yet serve Montenegro directly.",
+    "p2": "The border crossing is straightforward provided your rental paperwork and Green Card insurance are prepared in advance. We arrange all cross-border documentation before you arrive, so the handover at the airport is seamless.",
+    "p3": "From the moment you clear the Debeli Brijeg checkpoint, the landscape shifts. The limestone karst gives way to the lush, garden-draped hillsides of Herceg Novi — mimosa trees, citrus groves, and the warm microclimate that earned this town its City of Sun title. The drive from airport to Igalo spa quarter takes roughly 40 minutes.",
     "borderTitle": "Border Crossing Tips",
-    "borderText": "During tourist season, Montenegro becomes flooded with visitors and long waits to cross the border are not uncommon. Crossing early in the mornings or late at night is one way to beat the crowds. Make sure your rental company has provided you with a Green Card for cross-border insurance.",
-    "facilitiesTitle": "Airport Facilities",
-    "facilitiesText1": "Dubrovnik Airport has a modern terminal building located less than half an hour's drive from Dubrovnik city on the E65. The airport has limited parking available, with machines processing payment by cash and credit cards. Since parking is limited — especially in high season — visitors should pre-book their spaces if possible. There is a discount available for pre-booking.",
-    "facilitiesText2": "Inside the airport, there is a bureau de change, bank, and post office. Small restaurants, coffee shops, a duty-free store, and a newsstand are also available.",
-    "gettingTitle": "Getting to Montenegro",
-    "gettingText1": "Public transportation is available at the airport in the form of taxis located outside the terminal, plus bus services and shuttles. For travellers heading to Dubrovnik city, be sure to get on the buses that go all the way to the city centre rather than those stopping in Cavtat, to save yourself a transfer.",
-    "gettingText2": "The drive from Dubrovnik Airport to Montenegro's coast takes you along one of Europe's most scenic coastal roads. Within two hours you'll pass through the border and arrive at the Bay of Kotor — one of the most dramatic approaches to any destination in the Mediterranean."
+    "borderText": "During peak summer months, the Debeli Brijeg crossing can back up for an hour or more. Crossing early in the morning or after 8pm avoids the worst queues. Ensure your rental company has provided a Green Card covering Montenegro and Croatia — without it, border guards will not let you through.",
+    "facilitiesTitle": "Dubrovnik Airport Facilities",
+    "facilitiesText1": "The airport terminal sits on the E65 highway, less than 30 minutes from Dubrovnik's Old Town. Parking is limited and fills quickly in high season — pre-booking is advisable if you plan to leave a car here. Payment machines accept cash and cards.",
+    "facilitiesText2": "Inside the terminal: bureau de change, banking services, a post office, cafes, duty-free shopping, and a newsstand. The layout is compact and easy to navigate.",
+    "gettingTitle": "Getting to the Herceg Novi Riviera",
+    "gettingText1": "From Dubrovnik Airport, follow the E65 south toward Montenegro. The Debeli Brijeg border crossing is about 20 km from the terminal. After clearing both the Croatian exit and Montenegrin entry checkpoints, the road descends into Herceg Novi within 15 minutes.",
+    "gettingText2": "The arrival is memorable. The road drops through pine forest and suddenly the Bay of Kotor opens before you — Herceg Novi's fortress towers, the Igalo waterfront, and the botanical hillsides tumbling down to the Adriatic. It is one of the most dramatic first impressions of any Mediterranean town."
   },
   "montenegroBody": {
-    "h1": "Exploring Montenegro by Car",
-    "p1": "Montenegro stands as one of Europe's most rewarding destinations for self-drive exploration. From dramatic mountain roads and quiet inland villages to winding coastal drives along the Adriatic, the country offers diverse landscapes within surprisingly short distances. Renting a car provides access to locations well beyond the reach of public transport.",
-    "p2": "Although compact in size, Montenegro requires longer driving times than maps suggest. Mountain switchbacks, narrow coastal roads, and scenic routes encourage frequent stops. Travellers gain the freedom to experience both journey and destination — navigating fjord-like bays, historic towns, and highland viewpoints at their own pace.",
+    "h1": "Exploring Montenegro by Car from the City of Sun",
+    "p1": "Montenegro is one of Europe's most rewarding self-drive destinations — and Herceg Novi, perched at the entrance to Boka Bay, is the ideal starting point. From the botanical gardens and spa terraces of the City of Sun, every major destination in the country is reachable within a few hours: medieval Kotor along the bay, the sandy riviera of Budva to the south, Durmitor's alpine peaks to the north, and Dubrovnik just 30 km across the Croatian border.",
+    "p2": "Despite its compact size, Montenegro demands patience on the road. Mountain switchbacks, narrow coastal lanes, and panoramic distractions at every turn mean actual driving times often exceed what maps suggest. This is not a complaint — the journey itself is the experience, whether you are hugging the bay waterline past Perast or climbing the serpentines to Lovćen.",
     "startTitle": "Getting Started",
-    "startText": "Many visitors pick up their rental car at one of Montenegro's airports or at Dubrovnik Airport in Croatia, depending on flight availability. Tivat Airport is closest to the coast — just 10 minutes from Kotor and 20 minutes from Budva. Podgorica Airport serves the capital and interior. Dubrovnik Airport remains popular as it often has more international flights available.",
-    "timesTitle": "Driving Times",
-    "timesText1": "Actual driving times regularly exceed what maps show. Mountain switchbacks, jagged coastline roads, rural obstacles (including livestock), and winter mountain snow all contribute to longer journeys. The scenic coastal and countryside experience more than justifies the extended travel time.",
-    "timesText2": "Travel between coastal cities typically ranges from thirty minutes to one hour. The drive from Herceg-Novi to Podgorica via the E65/E80 takes approximately two hours.",
+    "startText": "Most visitors collect their rental car at Tivat Airport (35 min from Herceg Novi via the bay road, or 20 min via the Verige ferry shortcut), at Podgorica Airport (2 hours inland), or at Dubrovnik Airport (30 km north across the Croatian border). We also deliver directly to hotels and the Igalo spa quarter in Herceg Novi.",
+    "timesTitle": "Driving Times from Herceg Novi",
+    "timesText1": "The bay road to Kotor takes about 45 minutes, winding along the waterline through Risan and Perast. Budva is roughly an hour south via Kotor and the Trojica tunnel. Podgorica sits 2 hours inland through the Morača canyon. The Dubrovnik border at Debeli Brijeg is just 15 minutes north.",
+    "timesText2": "The Verige ferry, crossing the bay narrows between Kamenari and Lepetane, saves approximately 45 minutes compared to driving around the entire inner bay. It runs frequently and accepts cars — a local shortcut worth knowing.",
     "rulesTitle": "Driving Rules & Safety",
-    "rulesIntro": "Traffic police checks occur frequently but present no concern if you have proper documentation. You'll need:",
-    "rule1": "A valid driver's licence (international licence accepted)",
+    "rulesIntro": "Traffic police checks are common but present no concern with proper documentation. You will need:",
+    "rule1": "A valid driving licence (international licence accepted)",
     "rule2": "Rental contract or proof of vehicle ownership",
     "rule3": "Insurance documentation",
-    "rule4": "A \"Green Card\" for border crossings (approximately 15 Euros for 15 days)",
+    "rule4": "A Green Card for border crossings (approximately €15 for 15 days)",
     "keyRulesTitle": "Key Rules",
     "keyRule1": "Seat belts are mandatory for all passengers",
     "keyRule2": "Mobile phone use while driving is prohibited",
     "keyRule3": "Any drinking and driving is illegal — zero tolerance",
     "keyRule4": "Speed limits are strictly enforced",
     "conditionsTitle": "Road Conditions",
-    "conditionsText": "City roads maintain fair condition. Mountain roads can be more challenging, with minimal guard rails in places. Some drivers operate aggressively, so caution is advised throughout the country — particularly on mountain passes and narrow coastal stretches.",
-    "routesTitle": "Main Routes",
-    "e65Title": "E65/E80",
-    "e65Text": "The main coastal route connects Herceg-Novi to Podgorica, passing through Kotor, Perast, Tivat, and Budva. This is the most popular driving route and offers stunning views of the Bay of Kotor.",
-    "e762Title": "E762",
-    "e762Text": "Bisects the country from coast to interior, leading into eastern Croatia. This route takes you through Montenegro's mountainous heartland.",
+    "conditionsText": "Town and bay-road surfaces are generally good. Mountain roads can be narrower and more challenging, with minimal guard rails in places. Some local drivers take corners confidently — exercise caution on mountain passes and the tighter stretches of the bay road, especially between Herceg Novi and Risan where the lane narrows.",
+    "routesTitle": "Main Routes from Herceg Novi",
+    "e65Title": "E65/E80 — The Bay Road",
+    "e65Text": "The primary coastal artery connects Herceg Novi to Kotor, continuing past Tivat to Budva and Podgorica. This route hugs the entire inner bay and offers some of the most celebrated views in the Mediterranean — mountain walls dropping sheer into deep blue water, with Perast's bell towers and island churches reflected on the surface.",
+    "e762Title": "E762 — Interior Route",
+    "e762Text": "Bisects the country from coast to interior, climbing through the Montenegrin highlands toward eastern Bosnia. This route passes through dramatically different terrain — from maritime gardens to highland pastures within an hour.",
     "borderTitle": "Border Crossings",
-    "borderText": "Cross-border travel is straightforward with the right documentation. Checkpoints can experience heavy congestion during peak season, with kilometre-long car queues common at popular crossings. Optimal crossing times are weekday mornings or late evenings.",
-    "nationTitle": "A Young Nation",
-    "nationText": "Montenegro achieved independence in June 2006, making it one of the world's newest nations. Tourism development continues to grow, offering a more exotic and slightly more rugged adventure compared to neighbouring countries. The landscape combines green mountains cut through by fjords full of deep blue Adriatic water, a variety of beaches, and the mysteries of ancient Old Towns."
+    "borderText": "Cross-border travel is straightforward with the right documentation. The closest crossing from Herceg Novi is Debeli Brijeg (Croatia) — just 15 minutes north. Peak-season queues can stretch for a kilometre at popular crossings, so plan for weekday mornings or late evenings when possible.",
+    "nationTitle": "A Young Nation with Ancient Roots",
+    "nationText": "Montenegro declared independence in June 2006, making it one of the world's youngest nations. Yet its cultural heritage spans millennia — from Roman mosaics in Risan to Venetian fortresses in Kotor, from Ottoman clock towers in Herceg Novi to Austro-Hungarian villas in Igalo. For the self-drive traveller, this layered history unfolds around every bay bend and mountain pass."
   },
   "borderCrossingBody": {
     "h1": "Can I Take My Rental Car Across Borders?",
-    "p1": "Yes. Cross-border travel is permitted from Montenegro to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. You just need to let your rental company know at booking so they can prepare the necessary documentation.",
+    "p1": "Yes. Cross-border travel is permitted from Montenegro to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. Notify your rental company at booking so they can prepare the necessary documentation — including the all-important Green Card insurance.",
     "greenCardTitle": "What is a Green Card?",
-    "greenCardText": "A Green Card is an international motor insurance certificate that proves your vehicle is insured in the country you're entering. It's required at every border crossing in the Balkans.",
-    "greenCard1": "Cost: approximately 15 Euros for 15 days",
-    "greenCard2": "Where to get it: your rental company arranges this — just confirm at booking",
+    "greenCardText": "A Green Card is an international motor insurance certificate proving your vehicle is insured in the country you are entering. It is required at every Balkan border crossing.",
+    "greenCard1": "Cost: approximately €15 for 15 days",
+    "greenCard2": "Where to get it: your rental company arranges this — confirm at booking",
     "greenCard3": "Countries covered: Croatia, Bosnia, Albania, Kosovo, Serbia",
-    "greenCardWarn": "Without a Green Card, border guards will not let you through. Always check that the card covers all countries on your planned route before you set off.",
+    "greenCardWarn": "Without a Green Card, border guards will not let you through. Always verify the card covers all countries on your planned route before setting off.",
     "docsTitle": "Documents You Need at the Border",
     "doc1": "Valid passport or EU ID card",
     "doc2": "Driving licence (international licence accepted)",
     "doc3": "Rental contract (original, not a photocopy)",
     "doc4": "Green Card insurance certificate",
     "doc5": "Vehicle registration document (provided with the car)",
-    "crossingsTitle": "Border Crossings from Montenegro",
-    "croatiaTitle": "Montenegro → Croatia",
-    "croatiaText": "The most popular crossing for tourists. The main checkpoint is at Debeli Brijeg on the coastal road (E65) between Herceg Novi and Dubrovnik. This crossing gets extremely busy in summer — expect queues of 1-2 hours during peak season (July-August).",
-    "croatiaTip": "Best times to cross: early morning (before 8am) or late evening (after 8pm). Weekday mornings are significantly quieter than weekends.",
-    "croatiaFerry": "There is also the Kamenari-Lepetane ferry shortcut across the Bay of Kotor which avoids driving around the entire bay — saves about 45 minutes.",
+    "crossingsTitle": "Border Crossings from Herceg Novi",
+    "croatiaTitle": "Herceg Novi → Croatia (Debeli Brijeg)",
+    "croatiaText": "The most popular crossing for Herceg Novi visitors. Debeli Brijeg sits on the E65 coastal road just 15 minutes north of town — the quickest route to Dubrovnik, 30 km away. This crossing gets extremely busy in summer: expect queues of 1-2 hours during peak July and August weekends.",
+    "croatiaTip": "Best times to cross: early morning (before 8am) or late evening (after 8pm). Weekday mornings are significantly quieter than weekends. We recommend leaving the Igalo spa quarter by 7am for a stress-free crossing.",
+    "croatiaFerry": "The Kamenari-Lepetane ferry (Verige ferry) shortcuts across the bay narrows, saving approximately 45 minutes compared to driving the full inner bay circuit to reach crossings further south.",
     "albaniaTitle": "Montenegro → Albania",
-    "albaniaText": "Two main crossings: Sukobin/Muriqan (coastal, near Ulcinj) and Hani i Hotit (inland, near Skadar Lake). The coastal crossing is more traveller-friendly and typically has shorter wait times.",
-    "albaniaNote": "Note: Albanian roads differ significantly from Montenegro. Drive cautiously, especially on rural roads.",
+    "albaniaText": "Two main crossings: Sukobin/Muriqan (coastal, near Ulcinj) and Hani i Hotit (inland, near Skadar Lake). The coastal crossing is more tourist-friendly and typically has shorter wait times. Both are approximately 3-4 hours south of Herceg Novi.",
+    "albaniaNote": "Note: Albanian road surfaces and driving culture differ markedly from Montenegro. Drive cautiously, especially on rural roads.",
     "bosniaTitle": "Montenegro → Bosnia & Herzegovina",
-    "bosniaText": "The main crossing is at Šćepan Polje (near Foča) if heading north, or via Vilusi from Nikšić. Crossings are generally quiet with minimal wait times outside summer.",
+    "bosniaText": "The main crossing at Šćepan Polje (near Foča) connects to the Tara river canyon area. Via Vilusi from Nikšić offers an alternative. Crossings are generally quiet with minimal wait times outside peak summer.",
     "serbiaTitle": "Montenegro → Serbia",
-    "serbiaText": "Cross at Dobrakovo (on the E65 north of Bijelo Polje). This crossing connects directly to the Serbian motorway system towards Belgrade.",
+    "serbiaText": "Cross at Dobrakovo on the E65 north of Bijelo Polje. This crossing connects directly to the Serbian motorway network toward Belgrade.",
     "kosovoTitle": "Montenegro → Kosovo",
-    "kosovoText": "The crossing at Kula (near Rožaje) connects to Peja/Peć in Kosovo. Check with your rental company that Kosovo is included on your Green Card — some policies exclude it.",
-    "tipsTitle": "Tips for Smooth Border Crossings",
-    "tip1": "Have all documents ready before you reach the checkpoint — don't search for them at the window",
-    "tip2": "Turn off your engine while waiting in queues (border guards appreciate it)",
-    "tip3": "Summer weekends are the worst — plan to cross on weekdays if possible",
-    "tip4": "The Croatian coastal crossing (Debeli Brijeg) is busiest; inland crossings are quieter",
-    "tip5": "Keep some cash in Euros — useful for tolls and minor purchases on the other side",
-    "tip6": "Mobile data roaming: check your plan covers the country you're entering",
+    "kosovoText": "The crossing at Kula (near Rožaje) connects to Peja/Peć. Check with your rental company that Kosovo is specifically included on your Green Card — some policies exclude it.",
+    "tipsTitle": "Tips for Smooth Crossings",
+    "tip1": "Have all documents ready before you reach the checkpoint — do not search for them at the window",
+    "tip2": "Turn off your engine while queuing (border guards notice and appreciate it)",
+    "tip3": "Summer weekends are worst — cross on weekdays wherever possible",
+    "tip4": "Debeli Brijeg (closest to Herceg Novi) is the busiest; inland crossings are quieter",
+    "tip5": "Keep cash in Euros — useful for tolls and purchases on the Croatian side",
+    "tip6": "Check your mobile data plan covers the country you are entering — roaming charges apply",
     "lawsTitle": "Driving Rules That Change at Borders",
-    "lawsIntro": "Each country has slightly different traffic laws. Key differences to note:",
+    "lawsIntro": "Each neighbouring country has slightly different traffic laws. Key differences:",
     "law1": "Croatia: headlights must be on at all times. Motorway tolls apply (cash or card)",
-    "law2": "Albania: speed limits are lower on rural roads. Road quality varies significantly",
-    "law3": "Bosnia: winter tyres mandatory November-April. Carry a first-aid kit and warning triangle",
+    "law2": "Albania: lower speed limits on rural roads. Road quality varies significantly",
+    "law3": "Bosnia: winter tyres mandatory November-April. Carry first-aid kit and warning triangle",
     "law4": "Serbia: zero alcohol tolerance for drivers. Motorway vignette required",
     "law5": "Kosovo: drive on the right. International driving permit recommended",
-    "popularTitle": "Popular Cross-Border Routes",
-    "route1": "Tivat → Dubrovnik: 2 hours via coastal E65. Stunning scenery, one border crossing",
-    "route2": "Kotor → Mostar (Bosnia): 3-4 hours via Trebinje. Visit the famous bridge",
-    "route3": "Budva → Shkodër (Albania): 2.5 hours via Ulcinj coastal crossing",
-    "route4": "Podgorica → Belgrade (Serbia): 5-6 hours via E65 north",
-    "ctaText": "Need a car with cross-border documentation ready? Search our fleet — just select your destination countries at booking and we'll arrange the Green Card."
+    "popularTitle": "Popular Cross-Border Routes from Herceg Novi",
+    "route1": "Herceg Novi → Dubrovnik: 30 min via Debeli Brijeg. The classic day trip from the Riviera",
+    "route2": "Herceg Novi → Mostar (Bosnia): 3-4 hrs via Trebinje. Visit the famous Stari Most bridge",
+    "route3": "Budva → Shkodër (Albania): 2.5 hrs via the Ulcinj coastal crossing",
+    "route4": "Podgorica → Belgrade (Serbia): 5-6 hrs via the E65 north",
+    "ctaText": "Need a car with cross-border documentation ready? Search our fleet — select your destination countries at booking and we will arrange the Green Card and all necessary paperwork."
   }
 }
