@@ -4,7 +4,7 @@ import ContentPage from '../../ContentPage';
 export default function Podgorica() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("podgorica.title")} subtitle={t("podgorica.subtitle")} description={t("podgorica.seoDesc")} image="/img/coastal-drive.webp">
+    <ContentPage title={t("podgorica.title")} subtitle={t("podgorica.subtitle")} description={t("podgorica.seoDesc")} image="/img/podgorica-city.webp">
       <img src="/img/herceg-novi-riviera.webp" alt="Podgorica" loading="lazy" />
       <h2>{t('podgoricaBody.h1')}</h2>
       <p>{t('podgoricaBody.p1')}</p>
