@@ -2,7 +2,7 @@
 import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 export default function Kotor() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("kotor.title")} subtitle={t("kotor.subtitle")} description={t("kotor.seoDesc")} image="/img/kotor-from-herceg.webp">
       <img src="/img/kotor-old-town.webp" alt="Kotor Old Town streets" loading="lazy" />
@@ -16,7 +16,7 @@ export default function Kotor() {
       <p>{t('kotorBody.cathedralText')}</p>
       <img src="/img/kotor-from-herceg.webp" alt="Kotor" loading="lazy" />
       <h2>{t('kotorBody.dayTripsTitle')}</h2>
-      <p>{t('kotorBody.perastTrip')}</p>
+      <p>{t('kotorBody.perastTrip')} The <a href={localePath('/perast')}>baroque village of Perast</a> is just 15 minutes further along the bay.</p>
       <p>{t('kotorBody.cetinjeTrip')}</p>
       <p>{t('kotorBody.royalCourtText')}</p>
     </ContentPage>
