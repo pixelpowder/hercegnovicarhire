@@ -5,7 +5,7 @@ export default function Kotor() {
   const { t } = useTranslation();
   return (
     <ContentPage title={t("kotor.title")} subtitle={t("kotor.subtitle")} description={t("kotor.seoDesc")} image="/img/kotor-from-herceg.webp">
-      <img src="/img/forte-mare.webp" alt="Bay of Kotor from the bay road" loading="lazy" />
+      <img src="/img/kotor-old-town.webp" alt="Kotor Old Town streets" loading="lazy" />
       <h2>{t('kotorBody.h1')}</h2>
       <p>{t('kotorBody.p1')}</p>
       <p>{t('kotorBody.p2')}</p>

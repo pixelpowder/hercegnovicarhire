@@ -4,8 +4,8 @@ import ContentPage from '../../ContentPage';
 export default function Budva() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("budva.title")} subtitle={t("budva.subtitle")} description={t("budva.seoDesc")} image="/img/herceg-novi-riviera.webp">
-      <img src="/img/coastal-drive.webp" alt="Budva Riviera coastline" loading="lazy" />
+    <ContentPage title={t("budva.title")} subtitle={t("budva.subtitle")} description={t("budva.seoDesc")} image="/img/budva-old-town.webp">
+      <img src="/img/budva-old-town.webp" alt="Budva Old Town peninsula" loading="lazy" />
       <h2>{t('budvaBody.h1')}</h2>
       <p>{t('budvaBody.p1')}</p>
       <p>{t('budvaBody.p2')}</p>
@@ -14,7 +14,7 @@ export default function Budva() {
       <ul><li><strong>Mogren:</strong> {t('budvaBody.mogren')}</li><li><strong>Jaz:</strong> {t('budvaBody.jaz')}</li><li><strong>Sveti Stefan:</strong> {t('budvaBody.svetiStefan')}</li><li><strong>Becici:</strong> {t('budvaBody.becici')}</li></ul>
       <h2>{t('budvaBody.oldTownTitle')}</h2>
       <p>{t('budvaBody.oldTownText')}</p>
-      <img src="/img/herceg-novi-riviera.webp" alt="Sveti Stefan" loading="lazy" />
+      <img src="/img/budva-beach.webp" alt="Budva beach" loading="lazy" />
       <h2>{t('budvaBody.dayTripsTitle')}</h2>
       <p>{t('budvaBody.svetiStefanTrip')}</p>
       <p>{t('budvaBody.kotorTrip')}</p>

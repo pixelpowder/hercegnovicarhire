@@ -6,7 +6,7 @@ export default function TivatAirport() {
   const { t } = useTranslation();
   return (
     <ContentPage title={t("tivat-airport.title")} subtitle={t("tivat-airport.subtitle")} description={t("tivat-airport.seoDesc")} image="/img/tivat-airport.webp">
-      <img src="/img/herceg-novi-riviera.webp" alt="Tivat Airport and Boka Bay" loading="lazy" />
+      <img src="/img/tivat-airport-real.webp" alt="Tivat Airport terminal" loading="lazy" />
       <h2>{t('tivatAirportBody.h1')}</h2>
       <p>{t('tivatAirportBody.p1')}</p>
       <p>{t('tivatAirportBody.p2')}</p>

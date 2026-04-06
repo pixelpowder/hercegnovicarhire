@@ -11,7 +11,7 @@ export default function DubrovnikAirport() {
       description={t("dubrovnik-airport.seoDesc")}
       image="/img/dubrovnik-nearby.webp"
     >
-      <img src="/img/coastal-drive.webp" alt="Dubrovnik Airport to Herceg Novi coast road" loading="lazy" />
+      <img src="/img/dubrovnik-airport.webp" alt="Dubrovnik Airport tarmac at sunset" loading="lazy" />
       <h2>{t('dubrovnikAirportBody.h1')}</h2>
       <p>{t('dubrovnikAirportBody.p1')}</p>
       <p>{t('dubrovnikAirportBody.p2')}</p>

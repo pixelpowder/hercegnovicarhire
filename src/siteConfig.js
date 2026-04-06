@@ -185,7 +185,7 @@ const siteConfig = {
   destinations: [
     {
       name: "Igalo",
-      slug: "kotor",
+      slug: "igalo",
       tag: "Spa & Health",
       desc: "Famous health resort, 5 minutes from Herceg Novi.",
       image: "/img/igalo-spa.webp",
