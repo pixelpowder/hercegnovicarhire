@@ -187,8 +187,145 @@
   <!-- Contact -->
   <url><loc>https://www.hercegnovicarhire.com/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 
-  <!-- Blog -->
-  <url><loc>https://www.hercegnovicarhire.com/blog</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <!-- Blog Index -->
+  <url>
+    <loc>https://www.hercegnovicarhire.com/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hercegnovicarhire.com/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.hercegnovicarhire.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.hercegnovicarhire.com/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.hercegnovicarhire.com/it/blog" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hercegnovicarhire.com/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.hercegnovicarhire.com/me/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hercegnovicarhire.com/blog" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog: Three Fortresses Walk -->
+  <url>
+    <loc>https://www.hercegnovicarhire.com/blog/herceg-novi-fortress-trail</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hercegnovicarhire.com/blog/herceg-novi-fortress-trail" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.hercegnovicarhire.com/de/blog/herceg-novi-fortress-trail" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.hercegnovicarhire.com/ru/blog/herceg-novi-fortress-trail" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.hercegnovicarhire.com/it/blog/herceg-novi-fortress-trail" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hercegnovicarhire.com/fr/blog/herceg-novi-fortress-trail" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.hercegnovicarhire.com/me/blog/herceg-novi-fortress-trail" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hercegnovicarhire.com/blog/herceg-novi-fortress-trail" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Igalo Spa Heritage -->
+  <url>
+    <loc>https://www.hercegnovicarhire.com/blog/igalo-spa-tradition</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hercegnovicarhire.com/blog/igalo-spa-tradition" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.hercegnovicarhire.com/de/blog/igalo-spa-tradition" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.hercegnovicarhire.com/ru/blog/igalo-spa-tradition" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.hercegnovicarhire.com/it/blog/igalo-spa-tradition" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hercegnovicarhire.com/fr/blog/igalo-spa-tradition" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.hercegnovicarhire.com/me/blog/igalo-spa-tradition" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hercegnovicarhire.com/blog/igalo-spa-tradition" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Blue Cave Drive -->
+  <url>
+    <loc>https://www.hercegnovicarhire.com/blog/herceg-novi-to-blue-cave</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hercegnovicarhire.com/blog/herceg-novi-to-blue-cave" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.hercegnovicarhire.com/de/blog/herceg-novi-to-blue-cave" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.hercegnovicarhire.com/ru/blog/herceg-novi-to-blue-cave" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.hercegnovicarhire.com/it/blog/herceg-novi-to-blue-cave" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hercegnovicarhire.com/fr/blog/herceg-novi-to-blue-cave" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.hercegnovicarhire.com/me/blog/herceg-novi-to-blue-cave" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hercegnovicarhire.com/blog/herceg-novi-to-blue-cave" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: 100,000 Steps -->
+  <url>
+    <loc>https://www.hercegnovicarhire.com/blog/herceg-novi-steps-gardens</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hercegnovicarhire.com/blog/herceg-novi-steps-gardens" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.hercegnovicarhire.com/de/blog/herceg-novi-steps-gardens" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.hercegnovicarhire.com/ru/blog/herceg-novi-steps-gardens" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.hercegnovicarhire.com/it/blog/herceg-novi-steps-gardens" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hercegnovicarhire.com/fr/blog/herceg-novi-steps-gardens" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.hercegnovicarhire.com/me/blog/herceg-novi-steps-gardens" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hercegnovicarhire.com/blog/herceg-novi-steps-gardens" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Mamula Island -->
+  <url>
+    <loc>https://www.hercegnovicarhire.com/blog/mamula-island-fortress</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hercegnovicarhire.com/blog/mamula-island-fortress" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.hercegnovicarhire.com/de/blog/mamula-island-fortress" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.hercegnovicarhire.com/ru/blog/mamula-island-fortress" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.hercegnovicarhire.com/it/blog/mamula-island-fortress" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hercegnovicarhire.com/fr/blog/mamula-island-fortress" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.hercegnovicarhire.com/me/blog/mamula-island-fortress" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hercegnovicarhire.com/blog/mamula-island-fortress" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Mimosa Festival -->
+  <url>
+    <loc>https://www.hercegnovicarhire.com/blog/herceg-novi-mimosa-festival</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hercegnovicarhire.com/blog/herceg-novi-mimosa-festival" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.hercegnovicarhire.com/de/blog/herceg-novi-mimosa-festival" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.hercegnovicarhire.com/ru/blog/herceg-novi-mimosa-festival" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.hercegnovicarhire.com/it/blog/herceg-novi-mimosa-festival" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hercegnovicarhire.com/fr/blog/herceg-novi-mimosa-festival" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.hercegnovicarhire.com/me/blog/herceg-novi-mimosa-festival" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hercegnovicarhire.com/blog/herceg-novi-mimosa-festival" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Prevlaka Peninsula -->
+  <url>
+    <loc>https://www.hercegnovicarhire.com/blog/prevlaka-peninsula-drive</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hercegnovicarhire.com/blog/prevlaka-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.hercegnovicarhire.com/de/blog/prevlaka-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.hercegnovicarhire.com/ru/blog/prevlaka-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.hercegnovicarhire.com/it/blog/prevlaka-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hercegnovicarhire.com/fr/blog/prevlaka-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.hercegnovicarhire.com/me/blog/prevlaka-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hercegnovicarhire.com/blog/prevlaka-peninsula-drive" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Olive Oil Tasting -->
+  <url>
+    <loc>https://www.hercegnovicarhire.com/blog/herceg-novi-olive-groves</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hercegnovicarhire.com/blog/herceg-novi-olive-groves" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.hercegnovicarhire.com/de/blog/herceg-novi-olive-groves" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.hercegnovicarhire.com/ru/blog/herceg-novi-olive-groves" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.hercegnovicarhire.com/it/blog/herceg-novi-olive-groves" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hercegnovicarhire.com/fr/blog/herceg-novi-olive-groves" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.hercegnovicarhire.com/me/blog/herceg-novi-olive-groves" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hercegnovicarhire.com/blog/herceg-novi-olive-groves" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Savina Monastery -->
+  <url>
+    <loc>https://www.hercegnovicarhire.com/blog/savina-monastery-drive</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.hercegnovicarhire.com/blog/savina-monastery-drive" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.hercegnovicarhire.com/de/blog/savina-monastery-drive" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.hercegnovicarhire.com/ru/blog/savina-monastery-drive" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.hercegnovicarhire.com/it/blog/savina-monastery-drive" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.hercegnovicarhire.com/fr/blog/savina-monastery-drive" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.hercegnovicarhire.com/me/blog/savina-monastery-drive" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.hercegnovicarhire.com/blog/savina-monastery-drive" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 
   <!-- Privacy Policy -->
   <url>
